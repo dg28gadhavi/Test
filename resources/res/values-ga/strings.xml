@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DREAM_VOLTE_T_DEX_OPT_ABB">VoLTE</string>
+    <string name="DREAM_VOWIFI_T_DEX_OPT_ABB">VoWiFi</string>
+    <string name="SS_EMERGENCY_CALLS_IN_AREAS_WITH_CELLULAR_COVERAGE_ONLY_M_STATUS_SBODY_VODA">Glaonna éigeandála in áiteanna lena mbaineann clúdach ceallach amháin</string>
+    <string name="aka_challenge_failed_msg_skt">Níorbh fhéidir clárú Seirbhís Gutha HD a chríochnú. Triail do ghléas a atosú. Mura n-oibríonn sé sin, déan teagmháil leis an Ionad do Chustaiméirí óir is féidir imscrúdú SIM nó gléis a bheith de dhíth.</string>
+    <string name="dialog_text_rcs_config_accept">Glac leis</string>
+    <string name="dialog_text_rcs_config_autoconfig_text">Áirítear gnéithe nua le Rich Communications ar féidir leat iad a úsáid le teachtaireachtaí comhrá, pictiúir, físeáin, agus fuaimeanna, mar aon le teachtaireachtaí téacs a sheoladh agus a fháil trí do nasc Idirlín. Gheobhaidh tú cód trí theachtaireacht téacs le d\'uimhir fóin a fhíorú.</string>
+    <string name="dialog_text_rcs_config_cancel">Ar Ceal</string>
+    <string name="dialog_text_rcs_config_msisdn_text">Tá gnéithe nua san áireamh le Rich Communications ar féidir leat a úsáid le teachtaireachtaí comhrá, pictiúir, físeáin, agus fuaimeanna, mar aon le teachtaireachtaí téacs a sheoladh agus a fháil trí do nasc Idirlín. Chun clárú le haghaidh na ngnéithe seo, ní mór duit uimhir fóin a iontráil.</string>
+    <string name="dialog_text_rcs_config_msisdn_title">Gnéithe nua Cur teachtaireachtaí</string>
+    <string name="dialog_text_rcs_config_next">Ar agh.</string>
+    <string name="dialog_text_rcs_config_no">Ná déan é</string>
+    <string name="dialog_text_rcs_config_ok">OK</string>
+    <string name="dialog_text_rcs_config_reject">Diúltaigh</string>
+    <string name="dialog_text_rcs_config_skip">Scipeáil</string>
+    <string name="dialog_text_rcs_config_yes">Déan é</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_always">Cead. i gcónaí</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_once">Cead. 1 ur</string>
+    <string name="dialog_text_rcs_pdn_pref_deny">Ná ceadaigh</string>
+    <string name="dialog_text_rcs_pdn_pref_roaming">Ceadaigh do Rich Communications nascadh le líonra móibíleach? Toisc go bhfuil tú ag fánaíocht, is féidir go ngearrfar táillí shuntasacha mar thoradh air sin.</string>
+    <string name="dialog_title_rcs_service">Nasc le líonra móibíleach</string>
+</resources>

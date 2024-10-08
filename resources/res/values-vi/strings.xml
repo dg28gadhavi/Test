@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DREAM_VOLTE_T_DEX_OPT_ABB">VoLTE</string>
+    <string name="DREAM_VOWIFI_T_DEX_OPT_ABB">VoWiFi</string>
+    <string name="SS_EMERGENCY_CALLS_IN_AREAS_WITH_CELLULAR_COVERAGE_ONLY_M_STATUS_SBODY_VODA">Chỉ có thể thực hiện cuộc gọi khẩn cấp trong khu vực phủ sóng di động</string>
+    <string name="aka_challenge_failed_msg_skt">Không thể hoàn tất đăng ký Dịch vụ thoại HD. Hãy thử khởi động lại thiết bị của bạn. Nếu cách đó không hiệu quả, hãy liên hệ với Trung tâm khách hàng vì có thể cần phải kiểm tra SIM hoặc thiết bị.</string>
+    <string name="dialog_text_rcs_config_accept">C.nhận</string>
+    <string name="dialog_text_rcs_config_autoconfig_text">Rich Communications có các tính năng mới mà bạn có thể dùng để gửi và nhận tin nhắn chat, ảnh, video và âm thanh cũng như tin nhắn SMS qua kết nối internet. Bạn sẽ nhận được một mã qua tin nhắn SMS để xác thực số điện thoại của bạn.</string>
+    <string name="dialog_text_rcs_config_cancel">Hủy</string>
+    <string name="dialog_text_rcs_config_msisdn_text">Rich Communications có các tính năng mới mà bạn có thể dùng để gửi và nhận tin nhắn chat, ảnh, video và âm thanh cũng như tin nhắn SMS qua kết nối Internet. Để đăng ký những tính năng này, bạn phải nhập số điện thoại.</string>
+    <string name="dialog_text_rcs_config_msisdn_title">Tính năng nhắn tin mới</string>
+    <string name="dialog_text_rcs_config_next">Tiếp theo</string>
+    <string name="dialog_text_rcs_config_no">Không</string>
+    <string name="dialog_text_rcs_config_ok">OK</string>
+    <string name="dialog_text_rcs_config_reject">Từ chối</string>
+    <string name="dialog_text_rcs_config_skip">Bỏ qua</string>
+    <string name="dialog_text_rcs_config_yes">OK</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_always">Luôn cho phép</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_once">Cho phép một lần</string>
+    <string name="dialog_text_rcs_pdn_pref_deny">Không cho phép</string>
+    <string name="dialog_text_rcs_pdn_pref_roaming">Cho phép Rich Communications kết nối qua mạng di động? Khi chuyển vùng, bạn có thể phải trả phí khá cao.</string>
+    <string name="dialog_title_rcs_service">Kết nối vào mạng di động</string>
+</resources>

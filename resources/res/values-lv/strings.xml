@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DREAM_VOLTE_T_DEX_OPT_ABB">VoLTE</string>
+    <string name="DREAM_VOWIFI_T_DEX_OPT_ABB">VoWiFi</string>
+    <string name="SS_EMERGENCY_CALLS_IN_AREAS_WITH_CELLULAR_COVERAGE_ONLY_M_STATUS_SBODY_VODA">Ārkārtas zvani ir pieejami tikai reģionos ar mobilā tīkla pārklājumu</string>
+    <string name="aka_challenge_failed_msg_skt">Nevarēja pabeigt HD balss pakalpojuma reģistrāciju. Mēģiniet restartēt ierīci. Ja tas nedarbojas, sazinieties ar klientu apkalpošanas dienestu, jo var būt nepieciešama SIM vai ierīces pārbaude.</string>
+    <string name="dialog_text_rcs_config_accept">Pieņemt</string>
+    <string name="dialog_text_rcs_config_autoconfig_text">Rich Communications ietver jaunas funkcijas, kas ļauj sūtīt un saņemt tērzēšanas ziņas, attēlus, videoklipus un skaņas, kā arī īsziņas, izmantojot jūsu interneta savienojumu. Lai verificētu tālruņa numuru, jūs īsziņā saņemsit kodu.</string>
+    <string name="dialog_text_rcs_config_cancel">Atcelt</string>
+    <string name="dialog_text_rcs_config_msisdn_text">Rich Communications ietver jaunas funkcijas, kas ļauj sūtīt un saņemt tērzēšanas ziņas, attēlus, videoklipus un skaņas, kā arī īsziņas, izmantojot jūsu interneta savienojumu. Lai reģistrētos šo funkciju lietošanai, ievadiet tālruņa numuru.</string>
+    <string name="dialog_text_rcs_config_msisdn_title">Jaunas ziņapmaiņas funkcijas</string>
+    <string name="dialog_text_rcs_config_next">Tālāk</string>
+    <string name="dialog_text_rcs_config_no">Nē</string>
+    <string name="dialog_text_rcs_config_ok">Labi</string>
+    <string name="dialog_text_rcs_config_reject">Atteikt</string>
+    <string name="dialog_text_rcs_config_skip">Izlaist</string>
+    <string name="dialog_text_rcs_config_yes">Jā</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_always">Atļ. vienmēr</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_once">Vienreiz</string>
+    <string name="dialog_text_rcs_pdn_pref_deny">Neatļaut</string>
+    <string name="dialog_text_rcs_pdn_pref_roaming">Vai atļaut programmai Rich Communications veidot savienojumu ar mobilo tīklu? Jūs šobrīd atrodaties viesabonēšanā, tāpēc tas var radīt ievērojamas izmaksas.</string>
+    <string name="dialog_title_rcs_service">Savienojuma izveide ar mobilo tīklu</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DREAM_VOLTE_T_DEX_OPT_ABB">VoLTE</string>
+    <string name="DREAM_VOWIFI_T_DEX_OPT_ABB">VoWiFi</string>
+    <string name="SS_EMERGENCY_CALLS_IN_AREAS_WITH_CELLULAR_COVERAGE_ONLY_M_STATUS_SBODY_VODA">Tísňová volání pouze v oblastech s pokrytím mobilní sítě</string>
+    <string name="aka_challenge_failed_msg_skt">Registraci do Služby HD Voice se nepodařilo dokončit. Restartujte zařízení. Pokud to nepomůže, obraťte se na oddělení služeb zákazníkům, protože bude pravděpodobně nutné zkontrolovat SIM kartu nebo zařízení.</string>
+    <string name="dialog_text_rcs_config_accept">Přij.</string>
+    <string name="dialog_text_rcs_config_autoconfig_text">Rich Communications zahrnuje nové funkce, které umožňují odesílat a přijímat zprávy chatu, obrázky, videa a zvuky, a také textové zprávy, pomocí připojení k Internetu. V textové zprávě obdržíte kód pro ověření telefonního čísla.</string>
+    <string name="dialog_text_rcs_config_cancel">Zrušit</string>
+    <string name="dialog_text_rcs_config_msisdn_text">Rich Communications zahrnuje nové funkce, které umožňují odesílat a přijímat zprávy chatu, obrázky, videa a zvuky, a také textové zprávy, pomocí připojení k Internetu. Abyste se zaregistrovali pro tyto funkce, musíte zadat telefonní číslo.</string>
+    <string name="dialog_text_rcs_config_msisdn_title">Nové funkce zpráv</string>
+    <string name="dialog_text_rcs_config_next">Další</string>
+    <string name="dialog_text_rcs_config_no">Ne</string>
+    <string name="dialog_text_rcs_config_ok">OK</string>
+    <string name="dialog_text_rcs_config_reject">Odmít.</string>
+    <string name="dialog_text_rcs_config_skip">Přeskočit</string>
+    <string name="dialog_text_rcs_config_yes">Ano</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_always">Vždy povolit</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_once">Pov. jedn.</string>
+    <string name="dialog_text_rcs_pdn_pref_deny">Nepovolit</string>
+    <string name="dialog_text_rcs_pdn_pref_roaming">Povolit aplikaci Rich Communications připojit se k mobilní síti? Protože používáte roaming, mohou být účtovány značné poplatky.</string>
+    <string name="dialog_title_rcs_service">Připojit k mobilní síti</string>
+</resources>

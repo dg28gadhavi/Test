@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DREAM_VOLTE_T_DEX_OPT_ABB">VoLTE</string>
+    <string name="DREAM_VOWIFI_T_DEX_OPT_ABB">VoWiFi</string>
+    <string name="SS_EMERGENCY_CALLS_IN_AREAS_WITH_CELLULAR_COVERAGE_ONLY_M_STATUS_SBODY_VODA">Panggilan kecemasan di kawasan dengan liputan selular sahaja</string>
+    <string name="aka_challenge_failed_msg_skt">Tidak dapat menyelesaikan pendaftaran Perkhidmatan Suara HD. Cuba mulakan semula peranti anda. Jika tidak berkesan, hubungi Pusat Pelanggan memandangkan pemeriksaan SIM atau peranti mungkin diperlukan.</string>
+    <string name="dialog_text_rcs_config_accept">Terima</string>
+    <string name="dialog_text_rcs_config_autoconfig_text">Rich Communications termasuklah ciri baru yang anda boleh gunakan untuk menghantar dan menerima mesej sembang, gambar, video dan bunyi serta mesej teks menggunakan sambungan Internet anda. Anda akan menerima kod melalui mesej teks untuk mengesahkan nombor telefon anda.</string>
+    <string name="dialog_text_rcs_config_cancel">Batal</string>
+    <string name="dialog_text_rcs_config_msisdn_text">Rich Communications termasuk ciri baru anda boleh menggunakannya untuk menghantar dan menerima mesej sembang, gambar, video dan bunyi serta mesej teks menggunakan sambungan Internet. Untuk mendaftar ciri ini, anda mesti memasukkan nombor telefon.</string>
+    <string name="dialog_text_rcs_config_msisdn_title">Ciri mesej baru</string>
+    <string name="dialog_text_rcs_config_next">Berikut</string>
+    <string name="dialog_text_rcs_config_no">Tidak</string>
+    <string name="dialog_text_rcs_config_ok">OK</string>
+    <string name="dialog_text_rcs_config_reject">Tolak</string>
+    <string name="dialog_text_rcs_config_skip">Langkau</string>
+    <string name="dialog_text_rcs_config_yes">Ya</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_always">Stiasa bnrkn</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_once">Bnrkn skli</string>
+    <string name="dialog_text_rcs_pdn_pref_deny">Jgn benarkan</string>
+    <string name="dialog_text_rcs_pdn_pref_roaming">Benarkan Rich Communications menyambung ke rangkaian mudah alih? Apabila anda dalam perayauan, ini mungkin akan mengakibatkan caj yang tinggi.</string>
+    <string name="dialog_title_rcs_service">Sambng ke rangkaian mudah alih</string>
+</resources>

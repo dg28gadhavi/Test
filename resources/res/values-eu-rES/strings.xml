@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DREAM_VOLTE_T_DEX_OPT_ABB">VoLTE</string>
+    <string name="DREAM_VOWIFI_T_DEX_OPT_ABB">VoWiFi</string>
+    <string name="SS_EMERGENCY_CALLS_IN_AREAS_WITH_CELLULAR_COVERAGE_ONLY_M_STATUS_SBODY_VODA">Larrialdi deiak sistemaren estaldura dagoen tokietan soilik</string>
+    <string name="aka_challenge_failed_msg_skt">Ezin izan da amaitu HD formatuko ahots zerbitzuko erregistro prozesua. Saiatu gailua berrabiarazten. Horrek funtzionatzen ez badu, jarri bezeroentzako zentroarekin harremanetan, SIMa edo gailu aztertu behar izan baitezakete agian.</string>
+    <string name="dialog_text_rcs_config_accept">Onartu</string>
+    <string name="dialog_text_rcs_config_autoconfig_text">Rich Communications aplikazioak eginbide berriak ditu, txateko mezuak, argazkiak, bideoak, soinuak eta testu mezuak bidaltzeko eta jasotzeko, Internet konexioa erabiliz. Kode bat jasoko duzu testu mezu bidez telefono zenbakia egiaztatzeko.</string>
+    <string name="dialog_text_rcs_config_cancel">Utzi</string>
+    <string name="dialog_text_rcs_config_msisdn_text">Rich Communications aplikazioak eginbide berriak ditu, txateko mezuak, argazkiak, bideoak, soinuak eta testu mezuak bidaltzeko eta jasotzeko, Internet konexioa erabiliz. Eginbide horiek erabiltzeko erregistratzearren, telefono zenbakia idatzi behar duzu.</string>
+    <string name="dialog_text_rcs_config_msisdn_title">Mezularitza eginbide berriak</string>
+    <string name="dialog_text_rcs_config_next">Hurrengoa</string>
+    <string name="dialog_text_rcs_config_no">Ez</string>
+    <string name="dialog_text_rcs_config_ok">Ados</string>
+    <string name="dialog_text_rcs_config_reject">Ukatu</string>
+    <string name="dialog_text_rcs_config_skip">Pasatu</string>
+    <string name="dialog_text_rcs_config_yes">Bai</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_always">Baimendu beti</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_once">Baimendu behin</string>
+    <string name="dialog_text_rcs_pdn_pref_deny">Ez baimendu</string>
+    <string name="dialog_text_rcs_pdn_pref_roaming">Rich Communications-i sare mugikorrera konektatzea baimendu? Ibiltaritzan zaudenez, kostu osagarriak sor litezke.</string>
+    <string name="dialog_title_rcs_service">Konektatu sare mugikorrera</string>
+</resources>

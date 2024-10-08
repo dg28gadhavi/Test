@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DREAM_VOLTE_T_DEX_OPT_ABB">4G</string>
+    <string name="DREAM_VOWIFI_T_DEX_OPT_ABB">VoWiFi</string>
+    <string name="SS_EMERGENCY_CALLS_IN_AREAS_WITH_CELLULAR_COVERAGE_ONLY_M_STATUS_SBODY_VODA">Noodoproepen alleen in gebieden met mobiele dekking</string>
+    <string name="aka_challenge_failed_msg_skt">Kan registratie van HD Voice-service niet voltooien. Probeer uw apparaat opnieuw te starten. Als dat niet werkt, neemt u contact op met de klantenservice. Mogelijk moet de SIM-kaart of het apparaat worden nagekeken.</string>
+    <string name="dialog_text_rcs_config_accept">OK</string>
+    <string name="dialog_text_rcs_config_autoconfig_text">Rich Communications omvat nieuwe voorzieningen waarmee u chatberichten, foto\'s, video\'s, geluiden en sms-berichten kunt verzenden en ontvangen via uw internetverbinding. U ontvangt een sms met een code voor het controleren van uw telefoonnummer.</string>
+    <string name="dialog_text_rcs_config_cancel">Annul.</string>
+    <string name="dialog_text_rcs_config_msisdn_text">Rich Communication Services omvat nieuwe voorzieningen waarmee u chatberichten, foto\'s, video\'s, geluiden en sms-berichten kunt verzenden en ontvangen via uw internetverbinding. Als u zich voor deze functies wilt aanmelden, geeft u een telefoonnummer op.</string>
+    <string name="dialog_text_rcs_config_msisdn_title">Nieuwe berichtfuncties</string>
+    <string name="dialog_text_rcs_config_next">Volgende</string>
+    <string name="dialog_text_rcs_config_no">Nee</string>
+    <string name="dialog_text_rcs_config_ok">OK</string>
+    <string name="dialog_text_rcs_config_reject">Weiger</string>
+    <string name="dialog_text_rcs_config_skip">Overslaan</string>
+    <string name="dialog_text_rcs_config_yes">Ja</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_always">Altijd</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_once">Eenmaal</string>
+    <string name="dialog_text_rcs_pdn_pref_deny">Niet toestaan</string>
+    <string name="dialog_text_rcs_pdn_pref_roaming">Rich Communication Services toestemming geven om te verbinden met mobiele netwerk? Bij roaming kan dit leiden tot aanzienlijke kosten.</string>
+    <string name="dialog_title_rcs_service">Verbinden met mobiel netwerk</string>
+</resources>

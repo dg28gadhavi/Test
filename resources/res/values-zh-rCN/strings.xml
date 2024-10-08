@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DREAM_VOLTE_T_DEX_OPT_ABB">VoLTE</string>
+    <string name="DREAM_VOWIFI_T_DEX_OPT_ABB">VoWiFi</string>
+    <string name="SS_EMERGENCY_CALLS_IN_AREAS_WITH_CELLULAR_COVERAGE_ONLY_M_STATUS_SBODY_VODA">仅限在有手机网络覆盖的区域使用紧急呼叫</string>
+    <string name="aka_challenge_failed_msg_skt">无法完成 HD 语音服务注册。请尝试重启设备。如果这样做未解决问题，请联系客服中心，因为可能需要检查 SIM 卡或设备。</string>
+    <string name="dialog_text_rcs_config_accept">接受</string>
+    <string name="dialog_text_rcs_config_autoconfig_text">Rich Communications 的新功能可让您通过网络连接发送和接收聊天信息、图片、视频、声音以及短信。为了验证您的手机号码，您将收到一条验证码短信。</string>
+    <string name="dialog_text_rcs_config_cancel">取消</string>
+    <string name="dialog_text_rcs_config_msisdn_text">Rich Communications 包括您可用于通过互联网连接发送和接收聊天信息、图片、视频、声音和短信的新功能。若要注册这些功能，您必须输入手机号码。</string>
+    <string name="dialog_text_rcs_config_msisdn_title">全新信息功能</string>
+    <string name="dialog_text_rcs_config_next">下一步</string>
+    <string name="dialog_text_rcs_config_no">否</string>
+    <string name="dialog_text_rcs_config_ok">确定</string>
+    <string name="dialog_text_rcs_config_reject">拒绝</string>
+    <string name="dialog_text_rcs_config_skip">略过</string>
+    <string name="dialog_text_rcs_config_yes">是</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_always">总是允许</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_once">允许一次</string>
+    <string name="dialog_text_rcs_pdn_pref_deny">不允许</string>
+    <string name="dialog_text_rcs_pdn_pref_roaming">是否允许 Rich Communications 连接至移动网络？当您漫游时，这可能会产生大量费用。</string>
+    <string name="dialog_text_rcs_sensitive_api_remember">记住此次操作</string>
+    <string name="dialog_text_rcs_sensitive_api_text">请确认是否允许程序执行此操作 ?</string>
+    <string name="dialog_text_rcs_sensitive_api_title">敏感操作</string>
+    <string name="dialog_title_rcs_service">连接至移动网络</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DREAM_VOLTE_T_DEX_OPT_ABB">VoLTE</string>
+    <string name="DREAM_VOWIFI_T_DEX_OPT_ABB">VoWiFi</string>
+    <string name="SS_EMERGENCY_CALLS_IN_AREAS_WITH_CELLULAR_COVERAGE_ONLY_M_STATUS_SBODY_VODA">Segélyhívások csak ott indíthatók, ahol van mobilhálózati lefedettség</string>
+    <string name="aka_challenge_failed_msg_skt">Nem sikerült befejezni a HD Voice Service regisztrációját. Próbálja meg újraindítani az eszközt. Ha ez nem működik, lépjen kapcsolatba az ügyfélszolgálattal, mivel a SIM-kártya vagy az eszköz átvizsgálására lehet szükség.</string>
+    <string name="dialog_text_rcs_config_accept">Elfogad</string>
+    <string name="dialog_text_rcs_config_autoconfig_text">A Rich Communications új funkcióival a szöveges üzenetek mellett csevegőüzeneteket, képeket, videókat és hangokat is küldhet az internetkapcsolaton keresztül. A telefonszáma ellenőrzéséhez SMS-ben kapni fog egy kódot.</string>
+    <string name="dialog_text_rcs_config_cancel">Mégse</string>
+    <string name="dialog_text_rcs_config_msisdn_text">A Rich Communications új funkcióival a szöveges üzenetek mellett csevegési üzeneteket, képeket, videókat és hangokat is küldhet internetkapcsolattal. A funkciók használatához regisztrálnia kell egy telefonszám megadásával.</string>
+    <string name="dialog_text_rcs_config_msisdn_title">Új üzenetfunkciók</string>
+    <string name="dialog_text_rcs_config_next">Következő</string>
+    <string name="dialog_text_rcs_config_no">Nem</string>
+    <string name="dialog_text_rcs_config_ok">OK</string>
+    <string name="dialog_text_rcs_config_reject">Elutasít</string>
+    <string name="dialog_text_rcs_config_skip">Kihagyás</string>
+    <string name="dialog_text_rcs_config_yes">Igen</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_always">Eng. mindig</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_once">Eng. most</string>
+    <string name="dialog_text_rcs_pdn_pref_deny">Nem eng.</string>
+    <string name="dialog_text_rcs_pdn_pref_roaming">Engedélyezi a Rich Communications számára a kapcsolódást a mobilhálózathoz? Mivel roamingban van, ez jelentős költséggel járhat.</string>
+    <string name="dialog_title_rcs_service">Kapcsolódás mobilhálózathoz</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DREAM_VOLTE_T_DEX_OPT_ABB">VoLTE</string>
+    <string name="DREAM_VOWIFI_T_DEX_OPT_ABB">VoWiFi</string>
+    <string name="SS_EMERGENCY_CALLS_IN_AREAS_WITH_CELLULAR_COVERAGE_ONLY_M_STATUS_SBODY_VODA">Зангҳои таъҷилӣ танҳо дар минтақаҳои дорои сигнали мобилӣ</string>
+    <string name="aka_challenge_failed_msg_skt">Ба анҷом расонидани бақайдгирии хизматрасонии HD Voice барор наёфт. Дастгоҳро аз нав ба кор дароред. Агар нашавад, ба Маркази хизматрасонии муштариён муроҷиат кунед, зеро SIM-корт ё дастгоҳро тафтиш кардан лозим аст.</string>
+    <string name="dialog_text_rcs_config_accept">Қабул кардан</string>
+    <string name="dialog_text_rcs_config_autoconfig_text">Rich Communications дорои хусусиятҳои наве ҳаст, ки шумо метавонед онҳоро барои фиристодан ва гирифтани паёмҳои чат, суратҳо, видеоҳо ва садоҳо, инчунин паёмҳои матнӣ бо истифодаи пайвасти Интернети худ истифода баред. Шумо тавассути паёми матнӣ рамзе гирифта, рақами телефони худро месанҷед.</string>
+    <string name="dialog_text_rcs_config_cancel">Бекорк</string>
+    <string name="dialog_text_rcs_config_msisdn_text">Rich Communications хусусиятҳои наве дорад, ки шумо метавонед бо ёрии пайвастагии Интернети худ онҳоро барои фиристодан ва гирифтани паёмҳои чат, суратҳо, видеоҳо ва садоҳо, инчунин паёмҳои матнӣ истифода баред. Барои қайд шудан дар ин хусусиятҳо. шумо бояд рақами телефонро ворид кунед.</string>
+    <string name="dialog_text_rcs_config_msisdn_title">Хусусиятҳои паёмнависии нав</string>
+    <string name="dialog_text_rcs_config_next">Навбатӣ</string>
+    <string name="dialog_text_rcs_config_no">Не</string>
+    <string name="dialog_text_rcs_config_ok">OK</string>
+    <string name="dialog_text_rcs_config_reject">Рад кардан</string>
+    <string name="dialog_text_rcs_config_skip">Партофта гузаштан</string>
+    <string name="dialog_text_rcs_config_yes">Ҳа</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_always">Ҳамеша иҷ-т</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_once">Як б. иҷ-т</string>
+    <string name="dialog_text_rcs_pdn_pref_deny">Иҷозат над-н</string>
+    <string name="dialog_text_rcs_pdn_pref_roaming">Ба Rich Communications иҷозат медиҳед, ки ба шабакаи мобилӣ пайваст шавад? Азбаски шумо роуминг мекунед, ин метавонад боиси хароҷоти назаррас шавад.</string>
+    <string name="dialog_title_rcs_service">Ба шабакаи мобилӣ пайваст шавед</string>
+</resources>

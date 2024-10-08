@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:androidprv="http://schemas.android.com/apk/prv/res/android" xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:columnCount="2">
+    <EditText android:textColor="@color/rcs_dialog_body_text_color" android:layout_gravity="top|left|center_vertical|center_horizontal|center" android:id="@+id/input" android:layout_width="match_parent" android:layout_marginLeft="20dp" android:layout_marginRight="20dp" android:layout_column="1" android:ems="10" android:privateImeOptions="disableOnBoarding=true;" android:layout_row="0">
+        <requestFocus/>
+    </EditText>
+    <TextView android:textAppearance="?android:attr/textAppearanceMedium" android:textColor="@color/rcs_dialog_body_text_color" android:layout_gravity="top|left|center_vertical|center_horizontal|center" android:id="@+id/label" android:layout_height="match_parent" android:layout_marginTop="7dp" android:layout_column="0" android:layout_row="0"/>
+</GridLayout>

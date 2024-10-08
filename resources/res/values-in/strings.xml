@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DREAM_VOLTE_T_DEX_OPT_ABB">VoLTE</string>
+    <string name="DREAM_VOWIFI_T_DEX_OPT_ABB">VoWiFi</string>
+    <string name="SS_EMERGENCY_CALLS_IN_AREAS_WITH_CELLULAR_COVERAGE_ONLY_M_STATUS_SBODY_VODA">Panggilan darurat di area dengan cakupan seluler saja</string>
+    <string name="aka_challenge_failed_msg_skt">Tidak dapat menyelesaikan pendaftaran Layanan Suara HD. Coba mulai ulang perangkat Anda. Jika tidak berhasil, hubungi Pusat Pelanggan karena inspeksi SIM atau perangkat mungkin diperlukan.</string>
+    <string name="dialog_text_rcs_config_accept">Terima</string>
+    <string name="dialog_text_rcs_config_autoconfig_text">Rich Communications mencakup fitur baru yang bisa Anda gunakan untuk mengirim dan menerima pesan obrolan, gambar, video, dan suara, serta pesan teks, menggunakan koneksi Internet. Anda akan menerima kode lewat pesan teks untuk memverifikasi nomor telepon Anda.</string>
+    <string name="dialog_text_rcs_config_cancel">Batal</string>
+    <string name="dialog_text_rcs_config_msisdn_text">Rich Communications mencakup fitur baru yang bisa Anda gunakan untuk mengirim dan menerima pesan obrolan, gambar, video, dan suara, serta pesan teks, menggunakan koneksi Internet. Untuk mendaftar pada fitur ini, Anda harus memasukkan nomor telepon.</string>
+    <string name="dialog_text_rcs_config_msisdn_title">Fitur pesan baru</string>
+    <string name="dialog_text_rcs_config_next">Brkt</string>
+    <string name="dialog_text_rcs_config_no">Tidak</string>
+    <string name="dialog_text_rcs_config_ok">OK</string>
+    <string name="dialog_text_rcs_config_reject">Tolak</string>
+    <string name="dialog_text_rcs_config_skip">Lewati</string>
+    <string name="dialog_text_rcs_config_yes">Ya</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_always">Slalu izinkn</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_once">Izinkan 1x</string>
+    <string name="dialog_text_rcs_pdn_pref_deny">Jgn izinkan</string>
+    <string name="dialog_text_rcs_pdn_pref_roaming">Izinkan Rich Communications menyambung ke jaringan seluler? Saat roaming, ini dapat berakibat biaya yang signifikan.</string>
+    <string name="dialog_title_rcs_service">Sambungkan ke jaringan seluler</string>
+</resources>

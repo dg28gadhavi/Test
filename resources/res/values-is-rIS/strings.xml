@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DREAM_VOLTE_T_DEX_OPT_ABB">VoLTE</string>
+    <string name="DREAM_VOWIFI_T_DEX_OPT_ABB">VoWiFi</string>
+    <string name="SS_EMERGENCY_CALLS_IN_AREAS_WITH_CELLULAR_COVERAGE_ONLY_M_STATUS_SBODY_VODA">Neyðarsímtöl á svæðum þar sem eingöngu er hægt að nota farsímakerfi</string>
+    <string name="aka_challenge_failed_msg_skt">Ekki tókst að ljúka skráningu á hágæðasímtalaþjónustu. Prófaðu að endurræsa tækið. Ef það virkar ekki skaltu hafa samband við þjónustuverið þar sem skoða gæti þurft SIM-kortið eða tækið.</string>
+    <string name="dialog_text_rcs_config_accept">Samþykkja</string>
+    <string name="dialog_text_rcs_config_autoconfig_text">Rich Communications inniheldur nýja eiginleika til að senda og taka á móti spjallskilaboðum, myndum, myndskeiðum, hljóðskrám og SMS-skilaboðum í gegnum internetið. Þú færð sendan kóða í SMS-skilaboðum til að staðfesta símanúmerið þitt.</string>
+    <string name="dialog_text_rcs_config_cancel">Sleppa</string>
+    <string name="dialog_text_rcs_config_msisdn_text">Rich Communications inniheldur nýja eiginleika til að senda og taka á móti spjallskilaboðum, myndum, myndskeiðum og hljóðskrám, sem og SMS-skilaboðum, í gegnum tengingu við internetið. Þú þarft að slá símanúmerið þitt inn hér að neðan til að skrá þig fyrir þessum eiginleikum.</string>
+    <string name="dialog_text_rcs_config_msisdn_title">Nýir skilaboðaeiginleikar</string>
+    <string name="dialog_text_rcs_config_next">Næsta</string>
+    <string name="dialog_text_rcs_config_no">Nei</string>
+    <string name="dialog_text_rcs_config_ok">Í lagi</string>
+    <string name="dialog_text_rcs_config_reject">Hafna</string>
+    <string name="dialog_text_rcs_config_skip">Sleppa</string>
+    <string name="dialog_text_rcs_config_yes">Já</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_always">Leyfa alltaf</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_once">Leyfa núna</string>
+    <string name="dialog_text_rcs_pdn_pref_deny">Ekki leyfa</string>
+    <string name="dialog_text_rcs_pdn_pref_roaming">Leyfa Rich Communications að tengjast farsímakerfi? Þar sem þú ert í reiki getur þetta haft umtalsverðan kostnað í för með sér.</string>
+    <string name="dialog_title_rcs_service">Tengjast farsímakerfi</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DREAM_VOLTE_T_DEX_OPT_ABB">VoLTE</string>
+    <string name="DREAM_VOWIFI_T_DEX_OPT_ABB">VoWiFi</string>
+    <string name="SS_EMERGENCY_CALLS_IN_AREAS_WITH_CELLULAR_COVERAGE_ONLY_M_STATUS_SBODY_VODA">Chamadas de emergência apenas em áreas com cobertura celular</string>
+    <string name="aka_challenge_failed_msg_skt">Não foi possível concluir o cadastro do serviço HD Voice. Tente reiniciar seu aparelho. Se isso não funcionar, contate a Central de atendimento ao cliente, já que uma inspeção do chip ou do aparelho pode ser necessária.</string>
+    <string name="dialog_text_rcs_config_accept">Aceit.</string>
+    <string name="dialog_text_rcs_config_autoconfig_text">O Rich Communications inclui novos recursos que você pode usar para enviar e receber mensagens de chat, fotos, vídeos e sons, bem como mensagens de texto, usando sua conexão com a Internet. Você receberá um código por mensagem de texto para validar seu número de telefone.</string>
+    <string name="dialog_text_rcs_config_cancel">Canc.</string>
+    <string name="dialog_text_rcs_config_msisdn_text">O Rich Communications inclui novos recursos que você pode usar para enviar e receber mensagens de chat, fotos, vídeos e sons, assim como mensagens de texto, usando sua conexão com a Internet. Para registrar-se para esses recursos, você deve inserir um número de telefone.</string>
+    <string name="dialog_text_rcs_config_msisdn_title">Novos recursos de mensagens</string>
+    <string name="dialog_text_rcs_config_next">Próximo</string>
+    <string name="dialog_text_rcs_config_no">Não</string>
+    <string name="dialog_text_rcs_config_ok">OK</string>
+    <string name="dialog_text_rcs_config_reject">Rejeit.</string>
+    <string name="dialog_text_rcs_config_skip">Pular</string>
+    <string name="dialog_text_rcs_config_yes">Sim</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_always">Perm. sempre</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_once">Permitir</string>
+    <string name="dialog_text_rcs_pdn_pref_deny">Não permitir</string>
+    <string name="dialog_text_rcs_pdn_pref_roaming">Permitir à Rich Communications conectar-se a uma rede móvel? Enquanto estiver em roaming, isto pode acarretar cobranças significativas.</string>
+    <string name="dialog_title_rcs_service">Conectar a rede móvel</string>
+</resources>

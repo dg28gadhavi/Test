@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DREAM_VOLTE_T_DEX_OPT_ABB">VoLTE</string>
+    <string name="DREAM_VOWIFI_T_DEX_OPT_ABB">VoWiFi</string>
+    <string name="SS_EMERGENCY_CALLS_IN_AREAS_WITH_CELLULAR_COVERAGE_ONLY_M_STATUS_SBODY_VODA">Tik pagalbos skambučiai ryšio aprėpties zonoje</string>
+    <string name="aka_challenge_failed_msg_skt">Nepavyko užbaigti HD also paslaugos registracijos. Pabandykite paleisti įrenginį iš naujo. Jei tai nepadeda, kreipkitės į klientų aptarnavimo centrą, nes gali būti būtina SIM arba įrenginio patikra.</string>
+    <string name="dialog_text_rcs_config_accept">Priimti</string>
+    <string name="dialog_text_rcs_config_autoconfig_text">„Rich Communications“ papildyta naujomis funkcijomis, kurios leidžia jums siųsti ir gauti pokalbių žinutes, nuotraukas, vaizdo įrašus ir garsus bei teksto žinutes, naudojantis interneto ryšiu. Telefono numeriui patvirtinti teksto žinute gausite kodą.</string>
+    <string name="dialog_text_rcs_config_cancel">Atš.</string>
+    <string name="dialog_text_rcs_config_msisdn_text">„Rich Communications“ papildyta naujomis funkcijomis, kurios leidžia jums siųsti ir gauti pokalbių žinutes, nuotraukas, vaizdo įrašus ir garsus bei teksto žinutes, naudojantis interneto ryšiu. Norėdami užsiregistruoti ir naudoti šias funkcijas, turite įvesti savo telefono numerį.</string>
+    <string name="dialog_text_rcs_config_msisdn_title">Naujos žinučių siuntimo funkcijos</string>
+    <string name="dialog_text_rcs_config_next">Kitas</string>
+    <string name="dialog_text_rcs_config_no">Ne</string>
+    <string name="dialog_text_rcs_config_ok">Gerai</string>
+    <string name="dialog_text_rcs_config_reject">Atmesti</string>
+    <string name="dialog_text_rcs_config_skip">Praleisti</string>
+    <string name="dialog_text_rcs_config_yes">Taip</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_always">Visada</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_once">Vieną k.</string>
+    <string name="dialog_text_rcs_pdn_pref_deny">Neleisti</string>
+    <string name="dialog_text_rcs_pdn_pref_roaming">Leisti „Rich Communications“ jungtis prie mobiliojo tinklo? Naudojantis tarptinkliniu ryšiu gali būti taikomi papildomi mokesčiai.</string>
+    <string name="dialog_title_rcs_service">Prisijungti prie mobiliojo tinklo</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DREAM_VOLTE_T_DEX_OPT_ABB">VoLTE</string>
+    <string name="DREAM_VOWIFI_T_DEX_OPT_ABB">VoWiFi</string>
+    <string name="SS_EMERGENCY_CALLS_IN_AREAS_WITH_CELLULAR_COVERAGE_ONLY_M_STATUS_SBODY_VODA">सेल्युलर कभरेज भएका क्षेत्रहरूमा मात्र आपतकालीन कलहरू</string>
+    <string name="aka_challenge_failed_msg_skt">HD भ्वाइस सेवाको दर्ता पूरा गर्न सकिएन। आफ्नो यन्त्र पुनः सुरु गरी हेर्नुहोस्। त्यस उपायले काम नगरेमा, SIM वा यन्त्रको निरीक्षण गर्न आवश्यक हुनसक्ने भएकाले ग्राहक सेवा केन्द्रमा सम्पर्क गर्नुहोस्।</string>
+    <string name="dialog_text_rcs_config_autoconfig_text">Rich Communications मा नयाँ सुविधाहरू समावेश गरिएका छन् जसलाई तपाई आफ्नो इन्टरनेट जडानको प्रयोगको गरी च्याट संदेश, तस्वीर, भिडियो र ध्‍वनिहरूका साथै पाठ संदेशहरू पठाउन तथा प्राप्त गर्नका लागि प्रयोग गर्न सक्नुहुन्छ। तपाईले आफ्नो फोन नम्बरको प्रमाणीकरणका लागि पाठ संदेश मार्फत एउटा कोड प्राप्त गर्नुहुनेछ।</string>
+    <string name="dialog_text_rcs_config_next">अर्को</string>
+    <string name="dialog_text_rcs_config_skip">छोड्नुहोस्</string>
+</resources>

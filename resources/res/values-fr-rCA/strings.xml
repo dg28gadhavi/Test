@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DREAM_VOLTE_T_DEX_OPT_ABB">VoLTE</string>
+    <string name="DREAM_VOWIFI_T_DEX_OPT_ABB">VoWiFi</string>
+    <string name="SS_EMERGENCY_CALLS_IN_AREAS_WITH_CELLULAR_COVERAGE_ONLY_M_STATUS_SBODY_VODA">Appels d\'urgence dans les zones avec couverture cellulaire uniquement</string>
+    <string name="aka_challenge_failed_msg_skt">L\'enregistrement du service HD Voice n\'a pas pu être terminé. Essayez de redémarrer votre appareil. S\'il ne fonctionne pas, contactez le service client, car un contrôle de la carte SIM ou de l\'appareil peut s\'avérer nécessaire.</string>
+    <string name="dialog_text_rcs_config_accept">Accepter</string>
+    <string name="dialog_text_rcs_config_autoconfig_text">Rich Communications inclut de nouvelles fonctions qui permettent d\'envoyer et de recevoir des clavardages, des photos, des vidéos, des sons et des textos par connexion Internet. Vous allez recevoir un code par texto pour confirmer votre numéro de téléphone.</string>
+    <string name="dialog_text_rcs_config_cancel">Annul.</string>
+    <string name="dialog_text_rcs_config_msisdn_text">Rich Communications inclut de nouvelles fonctions qui permettent d\'envoyer et de recevoir des chats, des photos, des vidéos, des sons et des SMS via votre connexion Internet. Pour bénéficier de ces fonctions, vous devez saisir un numéro de téléphone.</string>
+    <string name="dialog_text_rcs_config_msisdn_title">Nouvelles fonctions de messagerie</string>
+    <string name="dialog_text_rcs_config_next">Suivant</string>
+    <string name="dialog_text_rcs_config_no">Non</string>
+    <string name="dialog_text_rcs_config_ok">OK</string>
+    <string name="dialog_text_rcs_config_reject">Refuser</string>
+    <string name="dialog_text_rcs_config_skip">Ignorer</string>
+    <string name="dialog_text_rcs_config_yes">Oui</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_always">Tjrs autor.</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_once">Aut. 1 fois</string>
+    <string name="dialog_text_rcs_pdn_pref_deny">Ne pas aut.</string>
+    <string name="dialog_text_rcs_pdn_pref_roaming">Voulez-vous autoriser Rich Communications à se connecter à un réseau mobile ? Comme vous êtes en itinérance, des frais supplémentaires peuvent être facturés.</string>
+    <string name="dialog_title_rcs_service">Connexion au réseau mobile</string>
+</resources>

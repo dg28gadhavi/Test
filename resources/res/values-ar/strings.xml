@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DREAM_VOLTE_T_DEX_OPT_ABB">VoLTE</string>
+    <string name="DREAM_VOWIFI_T_DEX_OPT_ABB">VoWiFi</string>
+    <string name="SS_EMERGENCY_CALLS_IN_AREAS_WITH_CELLULAR_COVERAGE_ONLY_M_STATUS_SBODY_VODA">مكالمات الطوارئ في المناطق ذات تغطية للأجهزة الخلوية فقط</string>
+    <string name="aka_challenge_failed_msg_skt">تعذر إنهاء تسجيل خدمة الصوت عالي الدقة. حاول إعادة تشغيل جهازك. إذا لم ينجح هذا الأمر، فاتصل بمركز خدمة العملاء نظراً لأنه قد يكون فحص SIM أو الجهاز مطلوباً.</string>
+    <string name="dialog_text_rcs_config_accept">قبول</string>
+    <string name="dialog_text_rcs_config_autoconfig_text">يشمل تطبيق Rich Communications ميزات جديدة يمكنك استخدامها لإرسال رسائل دردشة وصور ومقاطع فيديو وأصوات ورسائل نصية وتلقيها باستخدام اتصال الإنترنت لديك. ستتلقى رمزاً عبر رسالة نصية للتحقق من رقم هاتفك.</string>
+    <string name="dialog_text_rcs_config_cancel">إلغاء</string>
+    <string name="dialog_text_rcs_config_msisdn_text">تشمل Rich Communications ميزات جديدة يمكنك استخدامها لإرسال رسائل دردشة وصور ومقاطع فيديو وأصوات ورسائل نصية وتلقيها باستخدام اتصال الإنترنت. للاشتراك في هذه الميزات، عليك إدخال رقم هاتف.</string>
+    <string name="dialog_text_rcs_config_msisdn_title">ميزات المراسلة الجديدة</string>
+    <string name="dialog_text_rcs_config_next">التالي</string>
+    <string name="dialog_text_rcs_config_no">لا</string>
+    <string name="dialog_text_rcs_config_ok">موافق</string>
+    <string name="dialog_text_rcs_config_reject">رفض</string>
+    <string name="dialog_text_rcs_config_skip">تخطي</string>
+    <string name="dialog_text_rcs_config_yes">نعم</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_always">السماح دائماً</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_once">السماح مرة واحدة</string>
+    <string name="dialog_text_rcs_pdn_pref_deny">عدم السماح</string>
+    <string name="dialog_text_rcs_pdn_pref_roaming">هل تريد السماح لـ Rich Communications بالاتصال بشبكة هاتف محمول؟ أثناء التجوال، قد يترتب على ذلك فرض تكاليف كبيرة.</string>
+    <string name="dialog_title_rcs_service">الاتصال بشبكة المحمول</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DREAM_VOLTE_T_DEX_OPT_ABB">VoLTE</string>
+    <string name="DREAM_VOWIFI_T_DEX_OPT_ABB">VoWiFi</string>
+    <string name="SS_EMERGENCY_CALLS_IN_AREAS_WITH_CELLULAR_COVERAGE_ONLY_M_STATUS_SBODY_VODA">Połączenia alarmowe tylko w zasięgu sieci komórkowych</string>
+    <string name="aka_challenge_failed_msg_skt">Nie można zakończyć rejestracji usługi HD Voice. Spróbuj ponownie uruchomić urządzenie. Jeśli to nie pomoże, skontaktuj się Centrum obsługi klienta, ponieważ może być konieczne sprawdzenie karty SIM lub urządzenia.</string>
+    <string name="dialog_text_rcs_config_accept">Akceptuj</string>
+    <string name="dialog_text_rcs_config_autoconfig_text">Aplikacja Rich Communications zawiera nowe funkcje, których można używać do wysyłania i odbierania wiadomości czatu, zdjęć, filmów i dźwięków oraz SMS, korzystając z połączenia internetowego. Otrzymasz wiadomość SMS z kodem służącym do weryfikowania numeru telefonu.</string>
+    <string name="dialog_text_rcs_config_cancel">Anuluj</string>
+    <string name="dialog_text_rcs_config_msisdn_text">Aplikacja Rich Communications zawiera nowe funkcje, których można używać do wysyłania i odbierania wiadomości czatu, zdjęć, filmów i dźwięków, jak też SMS, korzystając z połączenia internetowego. Aby zarejestrować się w celu korzystania z tych funkcji, musisz wprowadzić swój numer telefonu.</string>
+    <string name="dialog_text_rcs_config_msisdn_title">Nowe funkcje wysyłania wiadomości</string>
+    <string name="dialog_text_rcs_config_next">Dalej</string>
+    <string name="dialog_text_rcs_config_no">Nie</string>
+    <string name="dialog_text_rcs_config_ok">OK</string>
+    <string name="dialog_text_rcs_config_reject">Odrzuć</string>
+    <string name="dialog_text_rcs_config_skip">Pomiń</string>
+    <string name="dialog_text_rcs_config_yes">Tak</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_always">Zawsze zezw.</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_once">Zezwól raz</string>
+    <string name="dialog_text_rcs_pdn_pref_deny">Nie zezwalaj</string>
+    <string name="dialog_text_rcs_pdn_pref_roaming">Zezwolić aplikacji Rich Communications na łączenie się z siecią komórkową? Ponieważ obecnie korzystasz z połączeń w ramach roamingu, może to spowodować naliczenie znacznych opłat.</string>
+    <string name="dialog_title_rcs_service">Połączenie z siecią komórkową</string>
+</resources>

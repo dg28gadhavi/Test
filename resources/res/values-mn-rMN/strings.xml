@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DREAM_VOLTE_T_DEX_OPT_ABB">VoLTE</string>
+    <string name="DREAM_VOWIFI_T_DEX_OPT_ABB">VoWiFi</string>
+    <string name="SS_EMERGENCY_CALLS_IN_AREAS_WITH_CELLULAR_COVERAGE_ONLY_M_STATUS_SBODY_VODA">Зөвхөн үүрэн холбооны хамрах бүс доторх яаралтай дуудлага</string>
+    <string name="aka_challenge_failed_msg_skt">HD Дуу хоолойн үйлчилгээний бүртгэлийг дуусгаж чадсангүй. Төхөөрөмжөө дахин эхлүүлж үзнэ үү. Хэрэв энэ ажиллахгүй байвал SIM эсвэл төхөөрөмжид үзлэг хийх хэрэгтэй байж болох учир Хэрэглэгчийн төвтэй холбогдоно уу.</string>
+    <string name="dialog_text_rcs_config_accept">Зөвшөөрөх</string>
+    <string name="dialog_text_rcs_config_autoconfig_text">Rich Communications нь Интернет холболтоор чаат зурвас, зураг, видео, дуу бичлэг, бичвэр зурвасыг илгээх, хүлээн авах шинэ функцүүдийг агуулсан. Та утасны дугаараа баталгаажуулаад бичвэр зурвасаар код хүлээн авна.</string>
+    <string name="dialog_text_rcs_config_cancel">Цуцлах</string>
+    <string name="dialog_text_rcs_config_msisdn_text">Rich Communications нь танд Интернэт холбоо ашиглан чаатын зурвас, гэрэл зураг, видео, дуу чимээ, мөн бичвэр зурвас илгээж, хүлээн авах боломжийг олгох шинэ функцуудыг багтаасан. Эдгээр функцад бүртгүүлэхийн тулд та утасны дугаараа оруулсан байх ёстой.</string>
+    <string name="dialog_text_rcs_config_msisdn_title">Шинэ зурвасны онцлогууд</string>
+    <string name="dialog_text_rcs_config_next">Дараах</string>
+    <string name="dialog_text_rcs_config_no">Үгүй</string>
+    <string name="dialog_text_rcs_config_ok">Батлах</string>
+    <string name="dialog_text_rcs_config_reject">Татг.</string>
+    <string name="dialog_text_rcs_config_skip">Алгасах</string>
+    <string name="dialog_text_rcs_config_yes">Тийм</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_always">Үргэлж зөвшр</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_once">1 удаа зөвшр</string>
+    <string name="dialog_text_rcs_pdn_pref_deny">Бүү зөвшөөр</string>
+    <string name="dialog_text_rcs_pdn_pref_roaming">Мобайл сүлжээнд холбогдохын тулд Rich Communications-г зөвшөөрөх үү? Та роуминг ашиглавал нэлээд их төлбөр гарч магадгүй.</string>
+    <string name="dialog_title_rcs_service">Хөдөлгөөнт сүлжээнд холбогд</string>
+</resources>

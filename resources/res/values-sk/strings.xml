@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DREAM_VOLTE_T_DEX_OPT_ABB">VoLTE</string>
+    <string name="DREAM_VOWIFI_T_DEX_OPT_ABB">VoWiFi</string>
+    <string name="SS_EMERGENCY_CALLS_IN_AREAS_WITH_CELLULAR_COVERAGE_ONLY_M_STATUS_SBODY_VODA">Tiesňové hovory v oblastiach pokrytých iba signálom mobilnej siete</string>
+    <string name="aka_challenge_failed_msg_skt">Nepodarilo sa dokončiť registráciu v službe Hlasový hovor HD. Skúste reštartovať zariadenie. Ak to nepomôže, obráťte sa na centrum služieb zákazníkom, pretože môže byť nutné skontrolovať kartu SIM alebo zariadenie.</string>
+    <string name="dialog_text_rcs_config_accept">Prijať</string>
+    <string name="dialog_text_rcs_config_autoconfig_text">Aplikácia Rich Communications obsahuje nové funkcie, ktoré môžete používať na odosielanie a prijímanie konverzačných správ, fotografií, videí, zvukov aj textových správ pomocou internetového pripojenia. V textovej správe dostanete kód na overenie vášho telefónneho čísla.</string>
+    <string name="dialog_text_rcs_config_cancel">Zrušiť</string>
+    <string name="dialog_text_rcs_config_msisdn_text">Aplikácia Rich Communications obsahuje nové funkcie, ktoré môžete používať na odosielanie a prijímanie konverzačných správ, fotografií, videí, zvukov aj textových správ pomocou internetového pripojenia. Ak si chcete zaregistrovať tieto funkcie, musíte zadať telefónne číslo.</string>
+    <string name="dialog_text_rcs_config_msisdn_title">Nové funkcie na výmenu správ</string>
+    <string name="dialog_text_rcs_config_next">Ďalej</string>
+    <string name="dialog_text_rcs_config_no">Nie</string>
+    <string name="dialog_text_rcs_config_ok">OK</string>
+    <string name="dialog_text_rcs_config_reject">Odmiet.</string>
+    <string name="dialog_text_rcs_config_skip">Vynechať</string>
+    <string name="dialog_text_rcs_config_yes">Áno</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_always">Vždy povoliť</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_once">Povol. raz</string>
+    <string name="dialog_text_rcs_pdn_pref_deny">Nepovoliť</string>
+    <string name="dialog_text_rcs_pdn_pref_roaming">Chcete povoliť aplikácii Rich Communications pripojenie k mobilnej sieti? Keďže využívate roaming, môže to mať za následok značné poplatky.</string>
+    <string name="dialog_title_rcs_service">Pripojenie k mobilnej sieti</string>
+</resources>

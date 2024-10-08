@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DREAM_VOLTE_T_DEX_OPT_ABB">VoLTE</string>
+    <string name="DREAM_VOWIFI_T_DEX_OPT_ABB">VoWiFi</string>
+    <string name="SS_EMERGENCY_CALLS_IN_AREAS_WITH_CELLULAR_COVERAGE_ONLY_M_STATUS_SBODY_VODA">Kun nødopkald i områder med mobildækning</string>
+    <string name="aka_challenge_failed_msg_skt">Kunne ikke afslutte registrering af HD Voice-tjeneste. Prøv at genstarte din enhed. Hvis det ikke fungerer, skal du kontakte kundecentret, da det kan være nødvendigt at foretage en inspektion af SIM-kortet eller enheden.</string>
+    <string name="dialog_text_rcs_config_accept">Besvar</string>
+    <string name="dialog_text_rcs_config_autoconfig_text">Rich Communications indeholder nye funktioner, som du kan bruge til at sende og modtage chatbeskeder, billeder, videoer og lyde samt sms\'er via din internetforbindelse. Du vil modtage en kode via sms for at bekræfte dit telefonnummer.</string>
+    <string name="dialog_text_rcs_config_cancel">Annul.</string>
+    <string name="dialog_text_rcs_config_msisdn_text">Rich Communications indeholder nye funktioner, som du kan bruge til at sende og modtage chatbeskeder, billeder, videoer og lyde samt sms\'er via din internetforbindelse. For at registrere dig til disse funktioner skal du angive et telefonnummer.</string>
+    <string name="dialog_text_rcs_config_msisdn_title">Nye beskedfunktioner</string>
+    <string name="dialog_text_rcs_config_next">Næste</string>
+    <string name="dialog_text_rcs_config_no">Nej</string>
+    <string name="dialog_text_rcs_config_ok">OK</string>
+    <string name="dialog_text_rcs_config_reject">Afvis</string>
+    <string name="dialog_text_rcs_config_skip">Spring over</string>
+    <string name="dialog_text_rcs_config_yes">Ja</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_always">Tillad altid</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_once">Til. 1 ga.</string>
+    <string name="dialog_text_rcs_pdn_pref_deny">Tillad ikke</string>
+    <string name="dialog_text_rcs_pdn_pref_roaming">Vil du tillade Rich Communications at oprette forbindelse til et mobilt netværk? Dette kan medføre væsentlige gebyrer, fordi du roamer.</string>
+    <string name="dialog_title_rcs_service">Opret forbindelse til mobilt netværk</string>
+</resources>

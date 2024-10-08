@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DREAM_VOLTE_T_DEX_OPT_ABB">VoLTE</string>
+    <string name="DREAM_VOWIFI_T_DEX_OPT_ABB">VoWiFi</string>
+    <string name="SS_EMERGENCY_CALLS_IN_AREAS_WITH_CELLULAR_COVERAGE_ONLY_M_STATUS_SBODY_VODA">Hädaabikõned ainult levialas</string>
+    <string name="aka_challenge_failed_msg_skt">HD-häälteenuse registreerimise lõpuleviimine nurjus. Proovige seade taaskäivitada. Kui see ei toimi, võtke ühendust klienditeenindusega, kuna võib olla vajalik kontrollida SIM-kaarti või seadet.</string>
+    <string name="dialog_text_rcs_config_accept">Nõustu</string>
+    <string name="dialog_text_rcs_config_autoconfig_text">Rich Communications sisaldab uusi funktsioone, millega saate internetiühenduse kaudu saata ning vastu võtta nii vestluste sõnumeid, pilte, videoid ja helisid kui ka tekstsõnumeid. Teile saadetakse telefoninumbri kinnitamiseks tekstsõnumiga kood.</string>
+    <string name="dialog_text_rcs_config_cancel">Tüh.</string>
+    <string name="dialog_text_rcs_config_msisdn_text">Rich Communications sisaldab uusi funktsioone, millega saate internetiühenduse kaudu saata ning vastu võtta nii vestluste sõnumeid, pilte, videoid ja helisid kui ka tekstsõnumeid. Nende funktsioonide kasutamise registreerimiseks peate sisestama telefoninumbri.</string>
+    <string name="dialog_text_rcs_config_msisdn_title">Uued sõnumsidefunktsioonid</string>
+    <string name="dialog_text_rcs_config_next">Järgmine</string>
+    <string name="dialog_text_rcs_config_no">Ei</string>
+    <string name="dialog_text_rcs_config_ok">OK</string>
+    <string name="dialog_text_rcs_config_reject">Keeldu</string>
+    <string name="dialog_text_rcs_config_skip">Jäta vahele</string>
+    <string name="dialog_text_rcs_config_yes">Jah</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_always">Luba alati</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_once">Luba kord</string>
+    <string name="dialog_text_rcs_pdn_pref_deny">Ära luba</string>
+    <string name="dialog_text_rcs_pdn_pref_roaming">Kas lubada Rich Communicationsil luua ühendus mobiilsidevõrguga? Kui olete rändlusrežiimis, võivad sellega kaasneda suured tasud.</string>
+    <string name="dialog_title_rcs_service">Loo ühendus mobiilsidevõrguga</string>
+</resources>

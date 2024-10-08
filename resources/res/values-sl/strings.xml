@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DREAM_VOLTE_T_DEX_OPT_ABB">VoLTE</string>
+    <string name="DREAM_VOWIFI_T_DEX_OPT_ABB">VoWiFi</string>
+    <string name="SS_EMERGENCY_CALLS_IN_AREAS_WITH_CELLULAR_COVERAGE_ONLY_M_STATUS_SBODY_VODA">Klici v sili samo na območjih, ki so pokriti signalom mobilnega omrežja</string>
+    <string name="aka_challenge_failed_msg_skt">Registracije storitve HD Voice Service ni bilo mogoče zaključiti. Poskusite znova zagnati napravo. Če to ne deluje, se obrnite na center za stranke, saj bo morda treba pregledati kartico SIM ali napravo.</string>
+    <string name="dialog_text_rcs_config_accept">Sprejmi</string>
+    <string name="dialog_text_rcs_config_autoconfig_text">Storitev Rich Communications vsebuje nove funkcije, ki jih lahko uporabite za pošiljanje in prejemanje sporočil v klepetu, slik, videoposnetkov in zvokov ter tudi besedilnih sporočil prek internetne povezave. V besedilnem sporočilu boste prejeli kodo za potrditev svoje telefonske številke.</string>
+    <string name="dialog_text_rcs_config_cancel">Prekl.</string>
+    <string name="dialog_text_rcs_config_msisdn_text">Storitev Rich Communications vsebuje nove funkcije, ki jih lahko uporabite za pošiljanje in prejemanje sporočil v klepetu, slik, videoposnetkov in zvokov ter tudi besedilnih sporočil prek internetne povezave. Če se želite registrirati za te funkcije, morate vnesti telefonsko številko.</string>
+    <string name="dialog_text_rcs_config_msisdn_title">Nove funkcije sporočanja</string>
+    <string name="dialog_text_rcs_config_next">Naprej</string>
+    <string name="dialog_text_rcs_config_no">Ne</string>
+    <string name="dialog_text_rcs_config_ok">V redu</string>
+    <string name="dialog_text_rcs_config_reject">Zavrni</string>
+    <string name="dialog_text_rcs_config_skip">Preskoči</string>
+    <string name="dialog_text_rcs_config_yes">Da</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_always">Vedno dovoli</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_once">Dovoli en.</string>
+    <string name="dialog_text_rcs_pdn_pref_deny">Ne dovoli</string>
+    <string name="dialog_text_rcs_pdn_pref_roaming">Ali želite storitvi Rich Communications omogočiti povezovanje z mobilnim omrežjem? Ker ste na gostovanju, lahko to povzroči izdatne stroške.</string>
+    <string name="dialog_title_rcs_service">Povezava z mobilnim omrežjem</string>
+</resources>

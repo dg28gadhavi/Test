@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DREAM_VOLTE_T_DEX_OPT_ABB">VoLTE</string>
+    <string name="DREAM_VOWIFI_T_DEX_OPT_ABB">VoWiFi</string>
+    <string name="SS_EMERGENCY_CALLS_IN_AREAS_WITH_CELLULAR_COVERAGE_ONLY_M_STATUS_SBODY_VODA">Diňe öýjükli aragatnaşyk tutýan ýerlerde gyssagly jaňlar</string>
+    <string name="aka_challenge_failed_msg_skt">HD ses hyzmaty bellige almagy gutaryp bolmady. Enjamyňyzy täzeden işledip görüň. Eger onuň peýdasy degmese, Müşderi hyzmatyna ýüz tutuň, sebäbi SIM-i ýa-da enjamy barlamaly bolmagy mümkin.</string>
+    <string name="dialog_text_rcs_config_accept">Kabul etmek</string>
+    <string name="dialog_text_rcs_config_autoconfig_text">Rich Communications-da internet birikmesi arkaly söhbet hatlaryny, suratlary, wideolary, sesleri, şeýle hem, tekst hatlaryny ibermek we almak üçin ulanar ýaly täze funksiýalar bar. Telefon belgiňizi tassyklamak üçin SMS arkaly kod alarsyňyz.</string>
+    <string name="dialog_text_rcs_config_cancel">Ýatyr</string>
+    <string name="dialog_text_rcs_config_msisdn_text">Rich Communications-da internet birikmesi arkaly söhbet hatlaryny, suratlary, sesleri, şeýle hem, tekst hatlaryny ibermek we almak üçin ulanar ýaly täze funksiýalar bar. Bu funksiýalara bellige alynmak üçin, siz telefon belgisini girizmeli.</string>
+    <string name="dialog_text_rcs_config_msisdn_title">Täze hat alyşma funksiýalary</string>
+    <string name="dialog_text_rcs_config_next">Indiki</string>
+    <string name="dialog_text_rcs_config_no">Ýok</string>
+    <string name="dialog_text_rcs_config_ok">OK</string>
+    <string name="dialog_text_rcs_config_reject">Ýüz döndürmek</string>
+    <string name="dialog_text_rcs_config_skip">Goýberiň</string>
+    <string name="dialog_text_rcs_config_yes">Hawa</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_always">Hem rugs ber</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_once">Bir rugs b</string>
+    <string name="dialog_text_rcs_pdn_pref_deny">Rugsat berme</string>
+    <string name="dialog_text_rcs_pdn_pref_roaming">Rich Communications-yň mobil tora birikmegine rugsat bermelimi? Rouming ulanýan wagtyňyz, ol köp töleglere eltip biler.</string>
+    <string name="dialog_title_rcs_service">Ykjam aragatnaşyk toryna birikmek</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DREAM_VOLTE_T_DEX_OPT_ABB">VoLTE</string>
+    <string name="DREAM_VOWIFI_T_DEX_OPT_ABB">VoWiFi</string>
+    <string name="SS_EMERGENCY_CALLS_IN_AREAS_WITH_CELLULAR_COVERAGE_ONLY_M_STATUS_SBODY_VODA">Hätäpuhelut vain matkapuhelinverkon peittoalueella</string>
+    <string name="aka_challenge_failed_msg_skt">HD Voice -palvelun rekisteröintiä ei voitu suorittaa loppuun. Yritä käynnistää laite uudelleen. Jos tämä ei auta, ota yhteyttä asiakaspalvelukeskukseen, sillä SIM-kortti tai laite on mahdollisesti tarkistettava.</string>
+    <string name="dialog_text_rcs_config_accept">Hyv.</string>
+    <string name="dialog_text_rcs_config_autoconfig_text">Rich Communicationsissa on uusia toimintoja, joiden avulla voit lähettää ja vastaanottaa keskusteluviestejä, kuvia, videoita, ääniä ja tekstiviestejä Internet-yhteyden välityksellä. Saat sähköpostitse koodin puhelinnumerosi vahvistamista varten.</string>
+    <string name="dialog_text_rcs_config_cancel">Peruuta</string>
+    <string name="dialog_text_rcs_config_msisdn_text">Rich Communicationsissa on uusia toimintoja, joiden avulla voit lähettää ja vastaanottaa keskusteluviestejä, kuvia, videoita, ääniä ja tekstiviestejä Internet-yhteyden välityksellä. Sinun on annettava puhelinnumero, jos haluat rekisteröityä näiden toimintojen käyttöä varten.</string>
+    <string name="dialog_text_rcs_config_msisdn_title">Uudet viestintätoiminnot</string>
+    <string name="dialog_text_rcs_config_next">Seuraava</string>
+    <string name="dialog_text_rcs_config_no">Ei</string>
+    <string name="dialog_text_rcs_config_ok">OK</string>
+    <string name="dialog_text_rcs_config_reject">Hylkää</string>
+    <string name="dialog_text_rcs_config_skip">Ohita</string>
+    <string name="dialog_text_rcs_config_yes">Kyllä</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_always">Salli aina</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_once">Salli kerran</string>
+    <string name="dialog_text_rcs_pdn_pref_deny">Älä salli</string>
+    <string name="dialog_text_rcs_pdn_pref_roaming">Annetaanko Rich Communicationsin muodostaa yhteys matkapuhelinverkkoon? Koska olet vieraassa verkossa, tästä voi aiheutua huomattavia lisämaksuja.</string>
+    <string name="dialog_title_rcs_service">Yhdistä matkapuhelinverkkoon</string>
+</resources>

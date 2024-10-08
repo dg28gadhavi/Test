@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DREAM_VOLTE_T_DEX_OPT_ABB">VoLTE</string>
+    <string name="DREAM_VOWIFI_T_DEX_OPT_ABB">VoWiFi</string>
+    <string name="SS_EMERGENCY_CALLS_IN_AREAS_WITH_CELLULAR_COVERAGE_ONLY_M_STATUS_SBODY_VODA">Favqulodda qo‘ng‘iroqlar faqat uyali aloqa xizmat doirasida ishlaydi</string>
+    <string name="aka_challenge_failed_msg_skt">HD Voice xizmatida ro‘yxatdan o‘tishni yakunlab bo‘lmadi. Qurilmangiz qayta ishga tushirishga urinib ko‘ring. Agar bu ish bermasa, Mijozlarga xizmat ko‘rsatish markazi bilan bog‘laning, chunki SIM-karta yoki qurilma inspeksiyasi talab qilinishi mumkin.</string>
+    <string name="dialog_text_rcs_config_accept">Qabul</string>
+    <string name="dialog_text_rcs_config_autoconfig_text">Rich Communications yangi funksiyalarni o‘z ichiga oladi, jumladan, Internet ulanishingiz yordamida undan chat xabarlari, rasmlari, videolar va ovozlari bilan bir qatorda matnli xabarlarni olishda foydalanishingiz mumkin. Telefon raqamini tasdiqlash uchun kodni matnli xabar orqali olasiz.</string>
+    <string name="dialog_text_rcs_config_cancel">Bek/q</string>
+    <string name="dialog_text_rcs_config_msisdn_text">Rich Communications yangi funksiyalarni o‘z ichiga oladi, jumladan, Internet ulanishingiz yordamida undan chat xabarlari, rasmlari, videolar va ovozlari bilan bir qatorda matnli xabarlarni olishda foydalanishingiz mumkin. Ushbu funksiyalar uchun ro‘yxatdan o‘tish uchun telefon raqamingizni kiritishingiz lozim.</string>
+    <string name="dialog_text_rcs_config_msisdn_title">Yangi xabarlar funksiyalari</string>
+    <string name="dialog_text_rcs_config_next">Keyingi</string>
+    <string name="dialog_text_rcs_config_no">Yo‘q</string>
+    <string name="dialog_text_rcs_config_ok">OK</string>
+    <string name="dialog_text_rcs_config_reject">Rad q</string>
+    <string name="dialog_text_rcs_config_skip">O‘tkazib yubor</string>
+    <string name="dialog_text_rcs_config_yes">Ha</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_always">Doim ruxsat</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_once">Bir marta</string>
+    <string name="dialog_text_rcs_pdn_pref_deny">Rxst berma</string>
+    <string name="dialog_text_rcs_pdn_pref_roaming">Rich Communications-ga mobil tarmoqqa ulanish uchun ruxsat berilsinmi? Roumingda bo‘lganingiz uchun bu katta xarajatlarni keltirib chiqarishi mumkin.</string>
+    <string name="dialog_title_rcs_service">Mobil tarmoqqa ulanish</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DREAM_VOLTE_T_DEX_OPT_ABB">VoLTE</string>
+    <string name="DREAM_VOWIFI_T_DEX_OPT_ABB">VoWiFi</string>
+    <string name="SS_EMERGENCY_CALLS_IN_AREAS_WITH_CELLULAR_COVERAGE_ONLY_M_STATUS_SBODY_VODA">การโทรฉุกเฉินในพื้นที่ที่มีสัญญาณมือถือครอบคลุมเท่านั้น</string>
+    <string name="aka_challenge_failed_msg_skt">ไม่สามารถลงทะเบียนบริการเสียง HD ให้เสร็จสมบูรณ์ได้ ลองรีสตาร์ทอุปกรณ์ของคุณ หากไม่ได้ผล ให้ติดต่อศูนย์บริการลูกค้า เนื่องจากอาจต้องมีการตรวจสอบ SIM หรืออุปกรณ์</string>
+    <string name="dialog_text_rcs_config_accept">ยอม​รับ</string>
+    <string name="dialog_text_rcs_config_autoconfig_text">Rich Communications มีคุณสมบัติใหม่ๆ ที่คุณสามารถใช้ในการรับส่งข้อความสนทนา รูปภาพ วิดีโอ และเสียงได้ รวมทั้งข้อความตัวอักษร โดยใช้การเชื่อมต่ออินเทอร์เน็ตของคุณ คุณจะได้รับรหัสผ่านข้อความสำหรับยืนยันหมายเลขโทรศัพท์ของคุณ</string>
+    <string name="dialog_text_rcs_config_cancel">ยกเลิก</string>
+    <string name="dialog_text_rcs_config_msisdn_text">Rich Communications มีคุณสมบัติใหม่ๆ ที่คุณสามารถใช้ในการรับส่งข้อความสนทนา รูปภาพ วิดีโอ และเสียงได้ รวมทั้งข้อความตัวอักษร โดยใช้การเชื่อมต่ออินเทอร์เน็ต ในการลงทะเบียนเพื่อคุณสมบัติเหล่านี้ คุณต้องใส่หมายเลขโทรศัพท์</string>
+    <string name="dialog_text_rcs_config_msisdn_title">คุณสมบัติการส่งข้อความใหม่</string>
+    <string name="dialog_text_rcs_config_next">ถัดไป</string>
+    <string name="dialog_text_rcs_config_no">ไม่</string>
+    <string name="dialog_text_rcs_config_ok">ตกลง</string>
+    <string name="dialog_text_rcs_config_reject">ปฏิเสธ</string>
+    <string name="dialog_text_rcs_config_skip">ข้าม</string>
+    <string name="dialog_text_rcs_config_yes">ใช่</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_always">อนุญาตเสมอ</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_once">อนุญาต</string>
+    <string name="dialog_text_rcs_pdn_pref_deny">ไม่อนุญาต</string>
+    <string name="dialog_text_rcs_pdn_pref_roaming">อนุญาตให้ Rich Communications เชื่อมต่อกับเครือข่ายมือถือ? เนื่องจากคุณกำลังโรมมิ่ง อาจมีค่าใช้จ่ายเพิ่มเติม</string>
+    <string name="dialog_title_rcs_service">เชื่อมต่อกับเครือข่ายมือถือ</string>
+</resources>

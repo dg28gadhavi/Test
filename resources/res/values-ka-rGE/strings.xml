@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DREAM_VOLTE_T_DEX_OPT_ABB">VoLTE</string>
+    <string name="DREAM_VOWIFI_T_DEX_OPT_ABB">VoWiFi</string>
+    <string name="SS_EMERGENCY_CALLS_IN_AREAS_WITH_CELLULAR_COVERAGE_ONLY_M_STATUS_SBODY_VODA">საგანგებო ზარები მხოლოდ ფიჭური ქსელის დაფარვის ზონებში</string>
+    <string name="aka_challenge_failed_msg_skt">HD Voice სერვისის რეგისტრაცია ვერ დასრულდა. სცადეთ მოწყობილობის გადატვირთვა. თუ ეს არ იმოქმედებს, მიმართეთ მომხმარებელთა მომსახურების ცენტრს, რადგან შეიძლება საჭირო იყოს SIM-ის ან მოწყობილობის შემოწმება.</string>
+    <string name="dialog_text_rcs_config_accept">მიღება</string>
+    <string name="dialog_text_rcs_config_autoconfig_text">Rich Communications-ს აქვს ახალი ფუნქციები, რომელთა გამოყენებით შეგიძლიათ, გაგზავნოთ და მიიღოთ საუბრის შეტყობინებები, სურათები, ვიდეოები და ხმები, ასევე ტექსტური შეტყობინებები, თქვენი ინტერნეტ-კავშირის გამოყენებით. ტელეფონის ნომრის დასამოწმებლად, ტექსტური შეტყობინებით მიიღებთ დამოწმების კოდს.</string>
+    <string name="dialog_text_rcs_config_cancel">გაუქმ.</string>
+    <string name="dialog_text_rcs_config_msisdn_text">Rich Communications-ს აქვს ახალი ფუნქციები, რომელთა გამოყენებით შეგიძლიათ, გაგზავნოთ და მიიღოთ საუბრის შეტყობინებები, სურათები, ვიდეოები და ხმები, ასევე ტექსტური შეტყობინებები, თქვენი ინტერნეტ-კავშირის გამოყენებით. ამ ფუნქციების გამოყენებისთვის დასარეგისტრირებლად, უნდა შეიყვანოთ თქვენი ტელეფონის ნომერი.</string>
+    <string name="dialog_text_rcs_config_msisdn_title">შეტყობინებების ახალი ფუნქციები</string>
+    <string name="dialog_text_rcs_config_next">შემდეგი</string>
+    <string name="dialog_text_rcs_config_no">არა</string>
+    <string name="dialog_text_rcs_config_ok">კი</string>
+    <string name="dialog_text_rcs_config_reject">უარყ.</string>
+    <string name="dialog_text_rcs_config_skip">გამოტოვება</string>
+    <string name="dialog_text_rcs_config_yes">კი</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_always">ყოველთვის</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_once">ერთხელ</string>
+    <string name="dialog_text_rcs_pdn_pref_deny">აკრძალვა</string>
+    <string name="dialog_text_rcs_pdn_pref_roaming">Rich Communications დაუკავშირდეს მობილურ ქსელს? იმის გამო რომ როუმინგში ხართ, ეს გამოიწვევს მნიშვნელოვან ხარჯებს.</string>
+    <string name="dialog_title_rcs_service">მობილურ ქსელთან დაკავშირება</string>
+</resources>

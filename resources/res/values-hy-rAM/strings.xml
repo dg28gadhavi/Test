@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DREAM_VOLTE_T_DEX_OPT_ABB">VoLTE</string>
+    <string name="DREAM_VOWIFI_T_DEX_OPT_ABB">VoWiFi</string>
+    <string name="SS_EMERGENCY_CALLS_IN_AREAS_WITH_CELLULAR_COVERAGE_ONLY_M_STATUS_SBODY_VODA">Արտակարգ իրավիճակի կանչեր՝ միայն բջջային ծածկույթ ունեցող տարածքներում</string>
+    <string name="aka_challenge_failed_msg_skt">Չհաջողվեց վերջացնել HD Ձայնային ծառայության գրանցումը: Փորձեք վերագործարկեք Ձեր սարքը: Եթե դա չաշխատի, դիմեք Հաճախորդների սպասարկման կենտրոն, քանի որ կարող է պահանջվել SIM-ի կամ սարքի զննում:</string>
+    <string name="dialog_text_rcs_config_accept">Ընդել</string>
+    <string name="dialog_text_rcs_config_autoconfig_text">Rich Communications-ը ներառում է նոր գործառական հնարավորություններ, որոնք կարող եք օգտագործել ինտերնետին միանալու միջոցով զրույցի հաղորդագրություններ, նկարներ, տեսանյութեր և հնչյուններ, ինչպես նաև տեքստային հաղորդագրություններ ուղարկելու և ստանալու համար: Ձեր հեռախոսահամարը հաստատելու համար կոդ կստանաք տեքստային հաղորդագրությամբ:</string>
+    <string name="dialog_text_rcs_config_cancel">Դդրցնլ</string>
+    <string name="dialog_text_rcs_config_msisdn_text">Rich Communications-ը ներառում է նոր գործառական հնարավորություններ, որոնք կարող եք օգտագործել ինտերնետին միանալու միջոցով զրույցի հաղորդագրություններ, նկարներ, տեսանյութեր և հնչյուններ, ինչպես նաև տեքստային հաղորդագրություններ ուղարկելու և ստանալու համար: Որպեսզի գրանցվեք այս գործառական հնարավորությունների համար, պետք է մուտքագրեք հեռախոսահամար:</string>
+    <string name="dialog_text_rcs_config_msisdn_title">Հաղորդագրման նոր գործառական հնարավորություններ</string>
+    <string name="dialog_text_rcs_config_next">Հաջորդ</string>
+    <string name="dialog_text_rcs_config_no">Ոչ</string>
+    <string name="dialog_text_rcs_config_ok">Ընդունել</string>
+    <string name="dialog_text_rcs_config_reject">Մերժլ</string>
+    <string name="dialog_text_rcs_config_skip">Բաց թողնել</string>
+    <string name="dialog_text_rcs_config_yes">Այո</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_always">Միշտ թյլտրել</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_once">Թտրել մեկ</string>
+    <string name="dialog_text_rcs_pdn_pref_deny">Թույլ չտալ</string>
+    <string name="dialog_text_rcs_pdn_pref_roaming">Թույլ տա՞լ, որ Rich Communications-ը միանա շարժական կապի ցանցի: Ռոումինգը կարող է նշանակալի վճարների հանգեցնել:</string>
+    <string name="dialog_title_rcs_service">Միանալ շարժական կապի ցանցին</string>
+</resources>

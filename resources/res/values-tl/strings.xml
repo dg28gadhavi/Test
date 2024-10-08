@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DREAM_VOLTE_T_DEX_OPT_ABB">VoLTE</string>
+    <string name="DREAM_VOWIFI_T_DEX_OPT_ABB">VoWiFi</string>
+    <string name="SS_EMERGENCY_CALLS_IN_AREAS_WITH_CELLULAR_COVERAGE_ONLY_M_STATUS_SBODY_VODA">Mga emergency na tawag sa mga lugar na may cell signal lang</string>
+    <string name="aka_challenge_failed_msg_skt">Hindi matapos ang pagrehistro sa HD Voice Service. Subukang i-restart ang device mo. Kung hindi iyon umubra, makipag-ugnayan sa Customer Center dahil maaaring kailanganin ang pagsuri sa SIM.</string>
+    <string name="dialog_text_rcs_config_accept">Sagot</string>
+    <string name="dialog_text_rcs_config_autoconfig_text">Kasama sa Rich Communications ang mga bagong feature na magagamit mo para magpadala at tumanggap ng mga chat message, larawan, video at tunog, pati na mga text message, gamit ang koneksiyon mo sa Internet. Makatatanggap ka ng code sa pamamagitan ng text message para sa pag-verify ng numero ng telepono mo.</string>
+    <string name="dialog_text_rcs_config_cancel">Kanselahin</string>
+    <string name="dialog_text_rcs_config_msisdn_text">Kasama sa Rich Communications ang mga bagong feature na magagamit mo para magpadala at tumanggap ng mga chat message, larawan, video at mga tunog, pati na ng mga text message, gamit ang koneksyon mo sa Internet. Para magrehistro para sa mga feature na ito, dapat kang magpasok ng numero ng telepono.</string>
+    <string name="dialog_text_rcs_config_msisdn_title">Bagong mga feature ng messaging</string>
+    <string name="dialog_text_rcs_config_next">Susunod</string>
+    <string name="dialog_text_rcs_config_no">Hindi</string>
+    <string name="dialog_text_rcs_config_ok">OK</string>
+    <string name="dialog_text_rcs_config_reject">Tnggi</string>
+    <string name="dialog_text_rcs_config_skip">Laktawan</string>
+    <string name="dialog_text_rcs_config_yes">Oo</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_always">Palaging payagan</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_once">Payagan nang isang beses</string>
+    <string name="dialog_text_rcs_pdn_pref_deny">Huwag payagan</string>
+    <string name="dialog_text_rcs_pdn_pref_roaming">Payagan ang Rich Communications na kumonekta sa mobile network? Habang naka-roaming ka, maaari itong magresulta sa malalaking bayad.</string>
+    <string name="dialog_title_rcs_service">Kumonekta sa mobile network</string>
+</resources>

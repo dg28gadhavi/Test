@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DREAM_VOLTE_T_DEX_OPT_ABB">VoLTE</string>
+    <string name="DREAM_VOWIFI_T_DEX_OPT_ABB">VoWiFi</string>
+    <string name="SS_EMERGENCY_CALLS_IN_AREAS_WITH_CELLULAR_COVERAGE_ONLY_M_STATUS_SBODY_VODA">Apeluri de urgență doar în zonele cu acoperire celulară</string>
+    <string name="aka_challenge_failed_msg_skt">Nu am putut finaliza înregistrarea serviciului HD Voice. Încercați să reporniți dispozitivul. Dacă nu funcționează, contactați centrul de asistență pentru clienți, deoarece poate fi necesară verificarea cartelei SIM sau a dispozitivului.</string>
+    <string name="dialog_text_rcs_config_accept">Acce.</string>
+    <string name="dialog_text_rcs_config_autoconfig_text">Rich Communications include caracteristici noi pe care le puteți utiliza pentru a trimite și a primi mesaje de chat, imagini, videoclipuri și conținut audio, precum și mesaje de text utilizând conexiunea la internet. Veți primi un cod printr-un mesaj de text pentru verificarea numărului de telefon.</string>
+    <string name="dialog_text_rcs_config_cancel">Anul.</string>
+    <string name="dialog_text_rcs_config_msisdn_text">Rich Communications include caracteristici noi pe care le puteți utiliza pentru a trimite și a primi mesaje pe chat, fotografii, videoclipuri și conținut audio, precum și mesaje text, utilizând conexiunea la internet. Pentru a vă înregistra la aceste caracteristici, trebuie să introduceți numărul de telefon.</string>
+    <string name="dialog_text_rcs_config_msisdn_title">Caracteristici noi de mesagerie</string>
+    <string name="dialog_text_rcs_config_next">Înainte</string>
+    <string name="dialog_text_rcs_config_no">Nu</string>
+    <string name="dialog_text_rcs_config_ok">OK</string>
+    <string name="dialog_text_rcs_config_reject">Resp.</string>
+    <string name="dialog_text_rcs_config_skip">Omitere</string>
+    <string name="dialog_text_rcs_config_yes">Da</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_always">Perm. mereu</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_once">Perm. o dată</string>
+    <string name="dialog_text_rcs_pdn_pref_deny">Nu permiteți</string>
+    <string name="dialog_text_rcs_pdn_pref_roaming">Permiteți aplicației Rich Communications să se conecteze la o rețea mobilă? Deoarece sunteți în roaming, această acțiune poate genera costuri semnificative.</string>
+    <string name="dialog_title_rcs_service">Conectați-vă la rețeaua mobilă</string>
+</resources>

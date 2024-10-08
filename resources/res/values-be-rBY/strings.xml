@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DREAM_VOLTE_T_DEX_OPT_ABB">VoLTE</string>
+    <string name="DREAM_VOWIFI_T_DEX_OPT_ABB">VoWiFi</string>
+    <string name="SS_EMERGENCY_CALLS_IN_AREAS_WITH_CELLULAR_COVERAGE_ONLY_M_STATUS_SBODY_VODA">Экстраныя выклікі магчымы толькі ў месцах з сотавым пакрыццём</string>
+    <string name="aka_challenge_failed_msg_skt">Не атрымалася завяршыць рэгістрацыю сэрвісу «Голас HD». Паспрабуйце перазапусціць прыладу. Калі гэта не дапаможа, звярніцеся ў цэнтр абслугоўвання кліентаў, таму што можа спатрэбіцца праверка SIM-карты або прылады.</string>
+    <string name="dialog_text_rcs_config_autoconfig_text">Rich Communications уключае новыя функцыі, якія вы можаце выкарыстоўваць для адпраўкі і прымання паведамленняў чату, фатаграфій, відэа і гукаў, а таксама тэкставых паведамленняў пры дапамозе злучэння з Інтэрнэтам. Вы атрымаеце код для пацверджання сапраўднасці тэлефоннага нумару ў тэкставым паведамленні.</string>
+    <string name="dialog_text_rcs_config_next">Далей</string>
+    <string name="dialog_text_rcs_config_skip">Прапусціць</string>
+</resources>

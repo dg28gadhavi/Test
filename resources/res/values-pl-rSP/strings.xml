@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DREAM_VOLTE_T_DEX_OPT_ABB">VoLTE</string>
+    <string name="DREAM_VOWIFI_T_DEX_OPT_ABB">VoWiFi</string>
+    <string name="SS_EMERGENCY_CALLS_IN_AREAS_WITH_CELLULAR_COVERAGE_ONLY_M_STATUS_SBODY_VODA">Alarmowe gŏdki ino w zasiyngu mobilnych necōw</string>
+    <string name="aka_challenge_failed_msg_skt">Nie można zakończyć rejestracji usługi HD Voice. Spróbuj ponownie uruchomić urządzenie. Jeśli to nie pomoże, skontaktuj się Centrum obsługi klienta, ponieważ może być konieczne sprawdzenie karty SIM lub urządzenia.</string>
+    <string name="dialog_text_rcs_config_accept">Akceptuj</string>
+    <string name="dialog_text_rcs_config_autoconfig_text">Aplikacyjŏ Rich Communications mŏ nowe fōnkcyje, kerych idzie używać do posyłaniŏ i przijmwoaniŏ wiadōmości, chatu, zdjyńć, filmōw i klangōw jak tyż SMS, bez internec. Dostŏniesz wiadōmość SMS z kodem, kery służy do weryfikowaniŏ telefōnu.</string>
+    <string name="dialog_text_rcs_config_cancel">Pociep</string>
+    <string name="dialog_text_rcs_config_msisdn_text">Aplikacyjŏ Rich Communications mŏ nowe fōnkcyje, kerych idzie używać do posyłaniŏ i dostowaniŏ wiadōmości czatu, zdjyńć, filmōw i klangōw, jak tyż SMS, bez użycie połōnczyniŏ internecowego. Coby zaregistrować sie i używać te fōnkcyje trza podać swōj nōmer telefōnu.</string>
+    <string name="dialog_text_rcs_config_msisdn_title">Nowe fōnkcyje posyłania wiadōmości</string>
+    <string name="dialog_text_rcs_config_next">Dalij</string>
+    <string name="dialog_text_rcs_config_no">Niy</string>
+    <string name="dialog_text_rcs_config_ok">OK</string>
+    <string name="dialog_text_rcs_config_reject">Ôdciep</string>
+    <string name="dialog_text_rcs_config_skip">Ôstŏw</string>
+    <string name="dialog_text_rcs_config_yes">Ja</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_always">Zŏwdy dozw.</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_once">Rŏz dozwōl</string>
+    <string name="dialog_text_rcs_pdn_pref_deny">Niy dozwŏlej</string>
+    <string name="dialog_text_rcs_pdn_pref_roaming">Dozwolić aplikacyji Rich Communications na łōnczynie sie bez nec mobilny? Skuli tego co terŏzki używŏsz roamingu może to być fest ekstra płatne.</string>
+    <string name="dialog_title_rcs_service">Połōnczynie z necem mobilniŏkowym</string>
+</resources>

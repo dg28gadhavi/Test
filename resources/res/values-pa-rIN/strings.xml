@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DREAM_VOLTE_T_DEX_OPT_ABB">VoLTE</string>
+    <string name="DREAM_VOWIFI_T_DEX_OPT_ABB">VoWiFi</string>
+    <string name="SS_EMERGENCY_CALLS_IN_AREAS_WITH_CELLULAR_COVERAGE_ONLY_M_STATUS_SBODY_VODA">ਸਿਰਫ ਸੈਲੂਲਰ ਕਵਰੇਜ ਵਾਲੇ ਖੇਤਰਾਂ ਵਿੱਚ ਅਪਾਤਕਾਲ ਕਾੱਲਸ</string>
+    <string name="aka_challenge_failed_msg_skt">HD ਵੌਇਸ ਸੇਵਾ ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਨੂੰ ਪੂਰਾ ਨਹੀਂ ਕਰ ਸਕੇ। ਆਪਣੀ ਡਿਵਾਈਸ ਨੂੰ ਦੁਬਾਰਾ ਚਾਲੂ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ। ਜੇ ਇਹ ਕੰਮ ਨਹੀਂ ਕਰਦਾ ਤਾਂ ਗਾਹਕ ਸੈਂਟਰ ਨਾਲ ਸੰਪਰਕ ਕਰੋ ਕਿਉਂਕਿ SIM ਜਾਂ ਡਿਵਾਈਸ ਜਾਂਚ ਦੀ ਲੋੜ ਹੋ ਸਕਦੀ ਹੈ।</string>
+    <string name="dialog_text_rcs_config_accept">ਸਵੀ.</string>
+    <string name="dialog_text_rcs_config_autoconfig_text">Rich Communications ਵਿੱਚ ਨਵੀਆਂ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਸ਼ਾਮਲ ਹਨ ਜਿਨ੍ਹਾਂ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਤੁਸੀਂ ਆਪਣੇ ਇੰਟਰਨੈੱਟ ਕਨੈਕਸ਼ਨ ਰਾਹੀਂ ਚੈਟ ਸੰਦੇਸ਼, ਤਸਵੀਰਾਂ, ਵੀਡਿਓਜ਼, ਧੁਨੀਆਂ ਅਤੇ ਨਾਲ ਹੀ ਟੈਕਸਟ ਸੰਦੇਸ਼ ਭੇਜ ਅਤੇ ਪ੍ਰਾਪਤ ਕਰ ਸਕਦੇ ਹੋ। ਆਪਣੇ ਫ਼ੋਨ ਨੰਬਰ ਦੀ ਤਸਦੀਕ ਕਰਨ ਲਈ ਤੁਹਾਨੂੰ ਟੈਕਸਟ ਸੰਦੇਸ਼ ਰਾਹੀਂ ਇੱਕ ਕੋਡ ਪ੍ਰਾਪਤ ਹੋਵੇਗਾ।</string>
+    <string name="dialog_text_rcs_config_cancel">ਰੱਦ ਕਰੋ</string>
+    <string name="dialog_text_rcs_config_msisdn_text">Rich Communications ਵਿੱਚ ਨਵੀਆਂ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਸ਼ਾਮਲ ਹਨ ਜਿਹਨਾਂ ਦਾ ਉਪਯੋਗ ਕਰਕੇ ਤੁਸੀਂ ਆਪਣੇ ਇੰਟਰਨੈੱਟ ਕਨੈਕਸ਼ਨ ਰਾਹੀਂ ਚੈਟ ਸੰਦੇਸ਼, ਤਸਵੀਰਾਂ, ਵੀਡਿਓਜ਼, ਧੁਨੀਆਂ ਅਤੇ ਟੈਕਸਟ ਸੰਦੇਸ਼ ਭੇਜ ਅਤੇ ਪ੍ਰਾਪਤ ਕਰ ਸਕਦੇ ਹੋ। ਇਹਨਾਂ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਲਈ ਰਜਿਸਟਰ ਕਰਨ ਲਈ ਤੁਹਾਨੂੰ ਫ਼ੋਨ ਨੰਬਰ ਦਾਖ਼ਲ ਕਰਨਾ ਜ਼ਰੂਰੀ ਹੈ।</string>
+    <string name="dialog_text_rcs_config_msisdn_title">ਨਵੀਆਂ ਮੈਸੇਜਿੰਗ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ</string>
+    <string name="dialog_text_rcs_config_next">ਅੱਗੇ</string>
+    <string name="dialog_text_rcs_config_no">ਨਹੀਂ</string>
+    <string name="dialog_text_rcs_config_ok">ਓਕੇ</string>
+    <string name="dialog_text_rcs_config_reject">ਰੱਦ</string>
+    <string name="dialog_text_rcs_config_skip">ਛੱਡੋ</string>
+    <string name="dialog_text_rcs_config_yes">ਹਾਂ</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_always">ਹਮੇਸ਼ਾ ਆਗਿਆ</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_once">ਇੱਕ ਵਾਰ ਆਗਿਆ</string>
+    <string name="dialog_text_rcs_pdn_pref_deny">ਆਗਿਆ ਨਾ ਦਿਉ</string>
+    <string name="dialog_text_rcs_pdn_pref_roaming">ਕੀ Rich Communications ਨੂੰ ਮੋਬਾਈਲ ਨੈੱਟਵਰਕ ਦੇ ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਦੀ ਆਗਿਆ ਦੇਣੀ ਹੈ? ਕਿਉਂਕਿ ਤੁਸੀਂ ਰੋਮਿੰਗ ਵਿੱਚ ਹੋ, ਇਸਦੇ ਪਰਿਣਾਮ ਵਜੋਂ ਵਿਸ਼ੇਸ਼ ਖਰਚੇ ਪੈ ਸਕਦੇ ਹਨ।</string>
+    <string name="dialog_title_rcs_service">ਮੋਬਾਈਲ ਨੈੱਟਵਰਕ ਨਾਲ ਕਨੈਕਟ ਕਰੋ</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DREAM_VOLTE_T_DEX_OPT_ABB">LTE-röstsamtal</string>
+    <string name="DREAM_VOWIFI_T_DEX_OPT_ABB">VoWiFi</string>
+    <string name="SS_EMERGENCY_CALLS_IN_AREAS_WITH_CELLULAR_COVERAGE_ONLY_M_STATUS_SBODY_VODA">Nödsamtal i områden som bara har mobiltelefontäckning</string>
+    <string name="aka_challenge_failed_msg_skt">Det gick inte att slutföra registreringen av HD Voice-tjänsten. Prova att starta om enheten. Om det inte fungerar kontaktar du kundtjänst eftersom ett SIM-kort eller kontroll av enheten krävs.</string>
+    <string name="dialog_text_rcs_config_accept">Accept.</string>
+    <string name="dialog_text_rcs_config_autoconfig_text">Rich Communications har nya funktioner som gör att du kan skicka och ta emot chattmeddelanden, bilder, videor, ljud och SMS via din internetanslutning. Du får en kod via SMS så att du kan verifiera ditt telefonnummer.</string>
+    <string name="dialog_text_rcs_config_cancel">Avbryt</string>
+    <string name="dialog_text_rcs_config_msisdn_text">Rich Communications har nya funktioner som gör att du kan skicka och ta emot chattmeddelanden, bilder, videor, ljud och SMS via din Internetanslutning. Om du vill använda dessa funktioner måste du ange ett telefonnummer nedan.</string>
+    <string name="dialog_text_rcs_config_msisdn_title">Nya meddelandefunktioner</string>
+    <string name="dialog_text_rcs_config_next">Nästa</string>
+    <string name="dialog_text_rcs_config_no">Nej</string>
+    <string name="dialog_text_rcs_config_ok">OK</string>
+    <string name="dialog_text_rcs_config_reject">Avvisa</string>
+    <string name="dialog_text_rcs_config_skip">Hoppa över</string>
+    <string name="dialog_text_rcs_config_yes">Ja</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_always">Tillåt alltid</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_once">Tillåt 1 g</string>
+    <string name="dialog_text_rcs_pdn_pref_deny">Tillåt inte</string>
+    <string name="dialog_text_rcs_pdn_pref_roaming">Vill du tillåta Rich Communications att ansluta till ett mobilnät? Det innebär roaming och kan medföra höga avgifter.</string>
+    <string name="dialog_title_rcs_service">Anslut till mobila nätverk</string>
+</resources>

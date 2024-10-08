@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DREAM_VOLTE_T_DEX_OPT_ABB">VoLTE</string>
+    <string name="DREAM_VOWIFI_T_DEX_OPT_ABB">VoWiFi</string>
+    <string name="SS_EMERGENCY_CALLS_IN_AREAS_WITH_CELLULAR_COVERAGE_ONLY_M_STATUS_SBODY_VODA">שיחות חירום אפשריות רק באזורים עם כיסוי סלולרי</string>
+    <string name="aka_challenge_failed_msg_skt">לא ניתן היה לסיים את הרישום ל-HD Voice Service. נסה להפעיל את המכשיר מחדש. אם הבעיה לא נפתרה, צור קשר עם שירות הלקוחות מכיוון שייתכן שיהיה צורך בבדיקת כרטיס ה-SIM או המכשיר.</string>
+    <string name="dialog_text_rcs_config_accept">קבל</string>
+    <string name="dialog_text_rcs_config_autoconfig_text">היישום Rich Communications מכיל תכונות חדשות לשליחה וקבלה של הודעות צ\'אט, תמונות, סרטונים, צלילים ואף הודעות טקסט - הכל באמצעות החיבור שלך לאינטרנט. הקוד לאימות מספר הטלפון שלך יגיע אליך בהודעת טקסט.</string>
+    <string name="dialog_text_rcs_config_cancel">ביטול</string>
+    <string name="dialog_text_rcs_config_msisdn_text">היישום \'תקשורת עשירה\' מכיל תכונות חדשות לשליחה וקבלה של הודעות צ\'אט, תמונות, סרטונים וצלילים, כמו גם הודעות טקסט ­ והכל באמצעות החיבור שלך לאינטרנט. כדי להירשם לתכונות אלה חובה להזין מספר טלפון.</string>
+    <string name="dialog_text_rcs_config_msisdn_title">תכונות חדשות של העברת הודעות</string>
+    <string name="dialog_text_rcs_config_next">הבא</string>
+    <string name="dialog_text_rcs_config_no">לא</string>
+    <string name="dialog_text_rcs_config_ok">אישור</string>
+    <string name="dialog_text_rcs_config_reject">דחה</string>
+    <string name="dialog_text_rcs_config_skip">דלג</string>
+    <string name="dialog_text_rcs_config_yes">כן</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_always">אפשר תמיד</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_once">אפשר פעם אחת</string>
+    <string name="dialog_text_rcs_pdn_pref_deny">אל תאשר</string>
+    <string name="dialog_text_rcs_pdn_pref_roaming">לאפשר ליישום \'תקשורת עשירה\' להתחבר אל רשת סלולרית? מאחר שאתה בנדידה, הדבר עשוי לגרור חיובים משמעותיים.</string>
+    <string name="dialog_title_rcs_service">התחבר לרשת ניידת</string>
+</resources>

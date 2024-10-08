@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DREAM_VOLTE_T_DEX_OPT_ABB">VoLTE</string>
+    <string name="DREAM_VOWIFI_T_DEX_OPT_ABB">VoWiFi</string>
+    <string name="SS_EMERGENCY_CALLS_IN_AREAS_WITH_CELLULAR_COVERAGE_ONLY_M_STATUS_SBODY_VODA">Κλήσεις έκτακτης ανάγκης σε περιοχές μόνο με κάλυψη δικτύου κινητής τηλεφωνίας</string>
+    <string name="aka_challenge_failed_msg_skt">Δεν ήταν δυνατή η ολοκλήρωση της εγγραφής φωνητικής υπηρεσίας HD. Δοκιμάστε να επανεκκινήσετε τη συσκευή σας. Εάν αυτό δεν λειτουργεί, επικοινωνήστε με το Κέντρο εξυπηρέτησης πελατών, καθώς ενδέχεται να απαιτείται έλεγχος SIM ή συσκευής.</string>
+    <string name="dialog_text_rcs_config_accept">Αποδ.</string>
+    <string name="dialog_text_rcs_config_autoconfig_text">Η εφαρμογή Rich Communications περιλαμβάνει νέες λειτουργίες τις οποίες μπορείτε να χρησιμοποιήσετε για να στείλετε και να λάβετε μηνύματα συνομιλίας, φωτογραφίες, βίντεο, ήχους και μηνύματα κειμένου, μέσω της σύνδεσής σας στο Internet. Θα λάβετε έναν κωδικό μέσω μηνύματος κειμένου για την επαλήθευση του αριθμού τηλεφώνου σας.</string>
+    <string name="dialog_text_rcs_config_cancel">Ακύρ.</string>
+    <string name="dialog_text_rcs_config_msisdn_text">Η εφαρμογή Rich Communications περιλαμβάνει νέες λειτουργίες τις οποίες μπορείτε να χρησιμοποιήσετε για να στείλετε και να λάβετε μηνύματα συνομιλίας, φωτογραφίες, βίντεο, ήχους και μηνύματα κειμένου, μέσω της σύνδεσής σας στο Internet. Για να εγγραφείτε σε αυτές τις λειτουργίες, θα πρέπει να εισαγάγετε έναν αριθμό τηλεφώνου.</string>
+    <string name="dialog_text_rcs_config_msisdn_title">Νέες λειτουργίες μηνυμάτων</string>
+    <string name="dialog_text_rcs_config_next">Επόμενο</string>
+    <string name="dialog_text_rcs_config_no">Όχι</string>
+    <string name="dialog_text_rcs_config_ok">OK</string>
+    <string name="dialog_text_rcs_config_reject">Απόρρ.</string>
+    <string name="dialog_text_rcs_config_skip">Παράβλεψη</string>
+    <string name="dialog_text_rcs_config_yes">Ναι</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_always">Επιτρ. πάντα</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_once">Αποδ.1φορά</string>
+    <string name="dialog_text_rcs_pdn_pref_deny">Να μην επιτ.</string>
+    <string name="dialog_text_rcs_pdn_pref_roaming">Να επιτραπεί η σύνδεση του Rich Communications σε δίκτυο κινητής τηλεφωνίας; Αυτό ενδέχεται να επιφέρει σημαντικές χρεώσεις, εφόσον βρίσκεστε σε περιαγωγή.</string>
+    <string name="dialog_title_rcs_service">Σύνδεση σε δίκτυο κινητής τηλεφωνίας</string>
+</resources>

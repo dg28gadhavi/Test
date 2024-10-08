@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DREAM_VOLTE_T_DEX_OPT_ABB">VoLTE</string>
+    <string name="DREAM_VOWIFI_T_DEX_OPT_ABB">VoWiFi</string>
+    <string name="SS_EMERGENCY_CALLS_IN_AREAS_WITH_CELLULAR_COVERAGE_ONLY_M_STATUS_SBODY_VODA">Sadece hücresel kapsama alanlarında acil durum aramaları</string>
+    <string name="aka_challenge_failed_msg_skt">HD Ses Servisi kaydı tamamlanamadı. Cihazınızı yeniden başlatmayı deneyin. Bu işe yaramazsa SIM\'in veya cihazın incelenmesi gerekebileceği için Müşteri Merkezi ile iletişim kurun.</string>
+    <string name="dialog_text_rcs_config_accept">Kabul et</string>
+    <string name="dialog_text_rcs_config_autoconfig_text">Rich Communications, İnternet bağlantınızı kullanarak sohbet mesajları, resimler, videolar ve seslerin yanı sıra metin mesajlarını gönderip almak için kullanabileceğiniz yeni özellikler içerir. Telefon numaranızı doğrulamak için metin mesajı yoluyla bir kod alacaksınız.</string>
+    <string name="dialog_text_rcs_config_cancel">İptal</string>
+    <string name="dialog_text_rcs_config_msisdn_text">Rich Communications, İnternet bağlantınızı kullanarak sohbet mesajları, resimler, videolar, sesler ve bunların yanı sıra metin mesajları gönderip almak için kullanabileceğiniz yeni özellikler içerir. Bu özelliklere kaydolmak için bir telefon numarası girmeniz gerekir.</string>
+    <string name="dialog_text_rcs_config_msisdn_title">Yeni mesajlaşma özellikleri</string>
+    <string name="dialog_text_rcs_config_next">Sonraki</string>
+    <string name="dialog_text_rcs_config_no">Hayır</string>
+    <string name="dialog_text_rcs_config_ok">Tamam</string>
+    <string name="dialog_text_rcs_config_reject">Reddet</string>
+    <string name="dialog_text_rcs_config_skip">Atla</string>
+    <string name="dialog_text_rcs_config_yes">Evet</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_always">Hep izin ver</string>
+    <string name="dialog_text_rcs_pdn_pref_allow_once">Tek izn vr</string>
+    <string name="dialog_text_rcs_pdn_pref_deny">İzin verme</string>
+    <string name="dialog_text_rcs_pdn_pref_roaming">Rich Communications\'ın bir mobil ağa bağlanmasına izin verilsin mi? Bu seçenek, dolaşım sırasında ciddi ücretlere neden olabilir.</string>
+    <string name="dialog_title_rcs_service">Mobil ağa bağlan</string>
+</resources>
